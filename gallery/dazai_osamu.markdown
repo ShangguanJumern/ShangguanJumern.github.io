@@ -1,5 +1,8 @@
 ---
+layout: page
+title: 《文豪野犬》太宰治
 permalink: /gallery/dazai_osamu/
+exclude_from_nav: true
 ---
 
 # 《文豪野犬》太宰治
