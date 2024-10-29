@@ -2,7 +2,6 @@
 layout: post
 title: 《文豪野犬》太宰治
 permalink: /gallery/dazai_osamu/
-published: false
 ---
 
 # 《文豪野犬》太宰治
