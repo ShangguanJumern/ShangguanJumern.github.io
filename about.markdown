@@ -48,6 +48,12 @@ permalink: /about/
 - 《名侦探柯南》工藤新一/毛利兰
 - 《魔术快斗》黑羽快斗/中森青子
 
+### 老福特tag直达：
+- [太宰治/中原中也](https://www.lofter.com/tag/%E5%A4%AA%E4%B8%AD)
+- [凪诚士郎/御影玲王](https://www.lofter.com/tag/%E5%87%AA%E7%8E%B2)
+
+---
+
 ## 玩过的游戏：
 - [我的世界](https://zh.minecraft.wiki/)
 - [原神](https://mzh.moegirl.org.cn/%E5%8E%9F%E7%A5%9E)
@@ -55,6 +61,9 @@ permalink: /about/
 - [绝区零](https://mzh.moegirl.org.cn/%E7%BB%9D%E5%8C%BA%E9%9B%B6)
 - [极限竞速系列](https://mzh.moegirl.org.cn/%E6%9E%81%E9%99%90%E7%AB%9E%E9%80%9F%E7%B3%BB%E5%88%97)
 - [VRChat](https://mzh.moegirl.org.cn/VRChat)
+
+
+---
 
 ## 喜好：
 - 台球
@@ -65,21 +74,15 @@ permalink: /about/
 - 剧本杀
 - [Cosplay](https://mzh.moegirl.org.cn/Cosplay(%E6%B4%BB%E5%8A%A8)#)
 
+---
+
 ## 二三次分号
 - [Coser](https://mzh.moegirl.org.cn/Cosplayer)
 - 摄影师
 - 视频/图片菜鸟后期
 - 业余塔罗牌占卜师
 
-## COS照图库
-- [《文豪野犬》太宰治](gallery/dazai_osamu.html)
-- [《原神》钟离](gallery/zhongli.html)
-- [《时光代理人》陆光](gallery/luguang.html)
-- [《惊封》白柳/六](gallery/bailiu.html)
-- [《蓝色监狱》凪诚士郎](gallery/nagi_seishiro.html)
-- [《咒术回战》五条悟](gallery/gojo_satoru.html)
-- [《间谍过家家》黄昏](gallery/twilight.html)
-- [《无头骑士异闻录》平和岛静雄](gallery/heiwajima_shizuo.html)
+---
 
 ## 雷区：
 - 贴脸开大
@@ -90,14 +93,11 @@ permalink: /about/
 - 毫无自知之明
 - 大众雷
 
+---
+
 ## 相关链接：
 - [《原神》游戏官网](https://www.yuanshen.com/)
 - [《崩坏：星穹铁道》游戏官网](https://sr.mihoyo.com/)
 - [《绝区零》游戏官网](https://zzz.mihoyo.com/main/)
 - [《极限竞速：地平线5》Steam商店页面](https://store.steampowered.com/app/1551360/_5/?l=schinese)
 - [VRChat Wiki](https://wiki.vrchat.com/wiki/Getting_Started/zh-hans)
-
-## 老福特tag直达：
-- [太宰治/中原中也](https://www.lofter.com/tag/%E5%A4%AA%E4%B8%AD)
-- [凪诚士郎/御影玲王](https://www.lofter.com/tag/%E5%87%AA%E7%8E%B2)
-```
