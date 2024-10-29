@@ -2,6 +2,7 @@
 layout: post
 title: 《蓝色监狱》凪诚士郎
 permalink: /gallery/nagi_seishiro/
+published: false
 ---
 
 # 《蓝色监狱》凪诚士郎

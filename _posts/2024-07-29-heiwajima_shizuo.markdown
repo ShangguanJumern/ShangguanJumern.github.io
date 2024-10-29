@@ -2,6 +2,7 @@
 layout: post
 title: 《无头骑士异闻录》平和岛静雄
 permalink: /gallery/heiwajima_shizuo/
+published: false
 ---
 
 # 《无头骑士异闻录》平和岛静雄

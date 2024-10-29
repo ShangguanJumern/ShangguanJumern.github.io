@@ -4,6 +4,10 @@ title: 图库
 permalink: /gallery/
 ---
 
+[返回上级](../contents/)
+
+---
+
 # COS照图库目录
 - [《文豪野犬》太宰治](dazai_osamu/)
 - [《原神》钟离](zhongli/)
@@ -15,3 +19,5 @@ permalink: /gallery/
 - [《无头骑士异闻录》平和岛静雄](heiwajima_shizuo/)
 
 ---
+
+[返回上级](../contents/)
