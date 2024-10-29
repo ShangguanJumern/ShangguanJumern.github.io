@@ -1,15 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-# 个人简介
+# 简介
 
 ![Avatar](images/avatar.jpg)
 
-**玖重峰峦叠翠微，梦游仙境忘归途。**
+>**玖重峰峦叠翠微，梦游仙境忘归途。**
 
 ## 基本信息：
 - CN：上官玖梦  
@@ -31,3 +28,4 @@ layout: home
 [跳转至bilibili主页](https://space.bilibili.com/353199743)
 
 ## 上官玖梦老师仍在持续施工本站……
+~~许多功能暂未实装在此站~~

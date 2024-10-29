@@ -6,19 +6,6 @@ permalink: /about/
 
 # 上官玖梦的个人介绍
 
-## 本页目录
-- [玖梦老师的碎碎念](#rant)
-- [部分看过的作品](#seen-fiction)
-- [部分在推的角色](#favorite-characters)
-- [目前主磕](#couple-pairings)
-- [部分玩过的游戏](#games)
-- [爱好](#likes)
-- [一些“头衔”](#skills)
-- [玖梦的Cos照图库](#gallery)
-- [雷点](#minefields)
-- [联系方式](#contact-information)
-- [一些相关链接](#links)
-
 ## 一点碎碎念：
 - 本人比较慢热，还请各位来扩列的老师多担待~
 
@@ -102,13 +89,6 @@ permalink: /about/
 - 无故自来熟
 - 毫无自知之明
 - 大众雷
-
-## 联系方式：
-- QQ：2099212720
-- ![QQ QRCode](images/QQ-QRCode.jpg)
-- WeChat：Jumernn
-- ![WeChat QRCode](images/WeChat-QRCode.png)
-- [跳转至bilibili主页](https://space.bilibili.com/353199743)
 
 ## 相关链接：
 - [《原神》游戏官网](https://www.yuanshen.com/)
