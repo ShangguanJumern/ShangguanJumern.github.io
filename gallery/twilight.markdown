@@ -6,7 +6,7 @@ permalink: /gallery/twilight/
 
 # 《间谍过家家》黄昏
 
-[回到目录](../../)
+[回到目录](../)
 
 ---
 
@@ -32,4 +32,4 @@ permalink: /gallery/twilight/
 
 ---
 
-[回到目录](../../)
+[回到目录](../)

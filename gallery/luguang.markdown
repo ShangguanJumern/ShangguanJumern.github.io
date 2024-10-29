@@ -6,7 +6,7 @@ permalink: /gallery/luguang/
 
 # 《时光代理人》陆光
 
-[回到目录](../../)
+[回到目录](../)
 
 ---
 
@@ -30,4 +30,4 @@ permalink: /gallery/luguang/
 
 ---
 
-[回到目录](../../)
+[回到目录](../)
