@@ -7,7 +7,7 @@ layout: home
 
 # 个人简介
 
-![Avatar](images/Avatar.jpg)
+![Avatar](images/avatar.jpg)
 
 **玖重峰峦叠翠微，梦游仙境忘归途。**
 
@@ -21,10 +21,13 @@ layout: home
 - #过于理智致歉
 
 ## 联系方式：
-- QQ：2099212720
-- ![QQ QRCode](images/QQ-QRCode.jpg)
-- WeChat：Jumernn
-- ![WeChat QRCode](images/WeChat-QRCode.png)
-- [跳转至bilibili主页](https://space.bilibili.com/353199743)
+
+**QQ：2099212720**
+![QQ QRCode](images/QQ-QRCode.jpg)
+
+**WeChat：Jumernn**
+![WeChat QRCode](images/WeChat-QRCode.png)
+
+[跳转至bilibili主页](https://space.bilibili.com/353199743)
 
 ## 上官玖梦老师仍在持续施工本站……
