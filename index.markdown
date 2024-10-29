@@ -29,9 +29,11 @@ title: 首页
 ## 联系方式：
 
 **QQ：2099212720**
+
 ![QQ QRCode](images/QQ-QRCode.jpg)
 
 **WeChat：Jumernn**
+
 ![WeChat QRCode](images/WeChat-QRCode.png)
 
 [跳转至bilibili主页](https://space.bilibili.com/353199743)
