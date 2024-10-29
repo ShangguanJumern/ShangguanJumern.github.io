@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: post
 title: 《无头骑士异闻录》平和岛静雄
 permalink: /gallery/heiwajima_shizuo/
 ---
 
 # 《无头骑士异闻录》平和岛静雄
 
-[回到主页](../)
+[回到目录](../)
 
 ---
 
@@ -25,4 +25,4 @@ permalink: /gallery/heiwajima_shizuo/
 
 ---
 
-[回到主页](../)
+[回到目录](../)
