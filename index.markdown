@@ -1,8 +1,9 @@
 ---
 layout: home
+title: 首页
 ---
 
-# 简介
+# 上官玖梦简介
 
 ![Avatar](images/avatar.jpg)
 
