@@ -6,11 +6,11 @@ permalink: /gallery/dazai_osamu/
 
 # 《文豪野犬》太宰治
 
-[回到目录](./contents/)
+[回到目录](../../contents/)
 
 ---
 
-![dazai_osamu-showcase](dazai_osamu/mafia/dazai_osamu-showcase.jpg)
+![dazai_osamu-showcase](../gallery/dazai_osamu/mafia/dazai_osamu-showcase.jpg)
 
 - 出镜/妆造：上官玖梦；
 - 摄影：unkown；
@@ -20,15 +20,15 @@ permalink: /gallery/dazai_osamu/
 
 ## 黑之时代
 
-![dazai_osamu-001](dazai_osamu/mafia/dazai_osamu-001.jpg)
+![dazai_osamu-001](../gallery/dazai_osamu/mafia/dazai_osamu-001.jpg)
 
-![dazai_osamu-002](dazai_osamu/mafia/dazai_osamu-002.jpg)
+![dazai_osamu-002](../gallery/dazai_osamu/mafia/dazai_osamu-002.jpg)
 
-![dazai_osamu-003](dazai_osamu/mafia/dazai_osamu-003.jpg)
+![dazai_osamu-003](../gallery/dazai_osamu/mafia/dazai_osamu-003.jpg)
 
-![dazai_osamu-004](dazai_osamu/mafia/dazai_osamu-004.jpg)
+![dazai_osamu-004](../gallery/dazai_osamu/mafia/dazai_osamu-004.jpg)
 
-![dazai_osamu-005](dazai_osamu/mafia/dazai_osamu-005.jpg)
+![dazai_osamu-005](../gallery/dazai_osamu/mafia/dazai_osamu-005.jpg)
 
 - ——by野生摄影
 
@@ -36,11 +36,11 @@ permalink: /gallery/dazai_osamu/
 
 ## 武装侦探社时期
 
-![dazai_osamu-006](dazai_osamu/detective/dazai_osamu-006.jpg)
+![dazai_osamu-006](../gallery/dazai_osamu/detective/dazai_osamu-006.jpg)
 
-![dazai_osamu-007](dazai_osamu/detective/dazai_osamu-007.jpg)
+![dazai_osamu-007](../gallery/dazai_osamu/detective/dazai_osamu-007.jpg)
 
-![dazai_osamu-008](dazai_osamu/detective/dazai_osamu-008.jpg)
+![dazai_osamu-008](../gallery/dazai_osamu/detective/dazai_osamu-008.jpg)
 
 - 出镜：上官玖梦；
 - 妆造：念稚；
@@ -48,4 +48,4 @@ permalink: /gallery/dazai_osamu/
 
 ---
 
-[回到目录](./contents/)
+[回到目录](../../contents/)
