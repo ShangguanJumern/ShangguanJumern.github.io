@@ -6,7 +6,7 @@ permalink: /gallery/dazai_osamu/
 
 # 《文豪野犬》太宰治
 
-[回到目录](../)
+[回到目录](./contents/)
 
 ---
 
@@ -48,4 +48,4 @@ permalink: /gallery/dazai_osamu/
 
 ---
 
-[回到目录](../)
+[回到目录](./contents/)
