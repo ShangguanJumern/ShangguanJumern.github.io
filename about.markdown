@@ -4,7 +4,7 @@ title: 关于我
 permalink: /about/
 ---
 
-# 上官玖梦的个人介绍
+# 关于上官玖梦
 
 ## 本页目录
 1. [玖梦老师的碎碎念](#rant)
@@ -45,27 +45,27 @@ permalink: /about/
 ---
 
 ## 我的推们： {#favorite-characters}
-- 《文豪野犬》[太宰治](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC:%E5%A4%AA%E5%AE%B0%E6%B2%BB)
-- 《地狱客栈》[Alastor/阿拉斯托](https://mzh.moegirl.org.cn/%E9%98%BF%E6%8B%89%E6%96%AF%E6%89%90)
-- 《我在惊悚游戏里封神（无限）》[白柳](https://baike.baidu.com/item/%E7%99%BD%E6%9F%B3/61123703)
-- 《刺客伍六七》[伍六七](https://mzh.moegirl.org.cn/%E4%BC%8D%E5%85%AD%E4%B8%83(%E8%A7%92%E8%89%B2)#)
-- 《Dr.STONE石纪元》[石神千空](https://mzh.moegirl.org.cn/%E7%9F%B3%E7%A5%9E%E5%8D%83%E7%A9%BA)
-- 《蓝色监狱》[凪诚士郎](https://mzh.moegirl.org.cn/%E5%87%AA%E8%AF%9A%E5%A3%AB%E9%83%8E)
-- 《排球少年》[孤爪研磨](https://mzh.moegirl.org.cn/%E5%AD%A4%E7%88%AA%E7%A0%94%E7%A3%A8)
-- 《魔术快斗》[怪盗基德](https://mzh.moegirl.org.cn/%E6%80%AA%E7%9B%97%E5%9F%BA%E5%BE%B7)
-- 《非人哉》[白泽](https://mzh.moegirl.org.cn/%E9%9D%9E%E4%BA%BA%E5%93%89:%E7%99%BD%E6%B3%BD)
-- 《时光代理人》[陆光](https://mzh.moegirl.org.cn/%E9%99%86%E5%85%89)
-- 《原神》[钟离](https://mzh.moegirl.org.cn/%E9%92%9F%E7%A6%BB)
-- 《崩坏：星穹铁道》[砂金](https://mzh.moegirl.org.cn/%E7%A0%82%E9%87%91)
+- [《文豪野犬》](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC)[太宰治](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC:%E5%A4%AA%E5%AE%B0%E6%B2%BB)
+- [《地狱客栈》](https://mzh.moegirl.org.cn/%E5%9C%B0%E7%8B%B1%E5%AE%A2%E6%A0%88)[Alastor/阿拉斯托](https://mzh.moegirl.org.cn/%E9%98%BF%E6%8B%89%E6%96%AF%E6%89%90)
+- [《我在惊悚游戏里封神（无限）》](https://www.jjwxc.net/onebook.php?novelid=4218910)[白柳](https://baike.baidu.com/item/%E7%99%BD%E6%9F%B3/61123703)
+- [《刺客伍六七》](https://mzh.moegirl.org.cn/%E4%BC%8D%E5%85%AD%E4%B8%83)[伍六七](https://mzh.moegirl.org.cn/%E4%BC%8D%E5%85%AD%E4%B8%83(%E8%A7%92%E8%89%B2)#)
+- [《Dr.STONE石纪元》](https://mzh.moegirl.org.cn/%E7%9F%B3%E7%BA%AA%E5%85%83)[石神千空](https://mzh.moegirl.org.cn/%E7%9F%B3%E7%A5%9E%E5%8D%83%E7%A9%BA)
+- [《蓝色监狱》](https://mzh.moegirl.org.cn/%E8%93%9D%E8%89%B2%E7%9B%91%E7%8B%B1)[凪诚士郎](https://mzh.moegirl.org.cn/%E5%87%AA%E8%AF%9A%E5%A3%AB%E9%83%8E)
+- [《排球少年》](https://mzh.moegirl.org.cn/%E6%8E%92%E7%90%83%E5%B0%91%E5%B9%B4%EF%BC%81%EF%BC%81)[孤爪研磨](https://mzh.moegirl.org.cn/%E5%AD%A4%E7%88%AA%E7%A0%94%E7%A3%A8)
+- [《魔术快斗》](https://mzh.moegirl.org.cn/%E9%AD%94%E6%9C%AF%E5%BF%AB%E6%96%97)[怪盗基德](https://mzh.moegirl.org.cn/%E6%80%AA%E7%9B%97%E5%9F%BA%E5%BE%B7)
+- [《非人哉》](https://mzh.moegirl.org.cn/%E9%9D%9E%E4%BA%BA%E5%93%89)[白泽](https://mzh.moegirl.org.cn/%E9%9D%9E%E4%BA%BA%E5%93%89:%E7%99%BD%E6%B3%BD)
+- [《时光代理人》](https://mzh.moegirl.org.cn/%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA)[陆光](https://mzh.moegirl.org.cn/%E9%99%86%E5%85%89)
+- [《原神》](https://mzh.moegirl.org.cn/%E5%8E%9F%E7%A5%9E)[钟离](https://mzh.moegirl.org.cn/%E9%92%9F%E7%A6%BB)
+- [《崩坏：星穹铁道》](https://mzh.moegirl.org.cn/%E5%B4%A9%E5%9D%8F%EF%BC%9A%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93)[砂金](https://mzh.moegirl.org.cn/%E7%A0%82%E9%87%91)
 
 ---
 
 ## 目前在吃的饭： {#couple-pairings}
-- 《文豪野犬》太宰治/中原中也
-- 《蓝色监狱》凪诚士郎/御影玲王
-- 《刺客伍六七》伍六七/梅花十三
-- 《名侦探柯南》工藤新一/毛利兰
-- 《魔术快斗》黑羽快斗/中森青子
+- [《文豪野犬》](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC)太宰治/中原中也
+- [《蓝色监狱》](https://mzh.moegirl.org.cn/%E8%93%9D%E8%89%B2%E7%9B%91%E7%8B%B1)凪诚士郎/御影玲王
+- [《刺客伍六七》](https://mzh.moegirl.org.cn/%E4%BC%8D%E5%85%AD%E4%B8%83)伍六七/梅花十三
+- [《名侦探柯南》](https://mzh.moegirl.org.cn/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97)工藤新一/毛利兰
+- [《魔术快斗》](https://mzh.moegirl.org.cn/%E9%AD%94%E6%9C%AF%E5%BF%AB%E6%96%97)黑羽快斗/中森青子
 
 ### 老福特tag直达：
 - [太宰治/中原中也](https://www.lofter.com/tag/%E5%A4%AA%E4%B8%AD)
