@@ -46,7 +46,7 @@ permalink: /about/
 
 ## 我的推们： {#favorite-characters}
 - [《文豪野犬》](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC)[太宰治](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC:%E5%A4%AA%E5%AE%B0%E6%B2%BB)
-- [《地狱客栈》](https://mzh.moegirl.org.cn/%E5%9C%B0%E7%8B%B1%E5%AE%A2%E6%A0%88)[Alastor/阿拉斯托](https://mzh.moegirl.org.cn/%E9%98%BF%E6%8B%89%E6%96%AF%E6%89%90)
+- [《地狱客栈》](https://mzh.moegirl.org.cn/%E5%9C%B0%E7%8B%B1%E5%AE%A2%E6%A0%88)[Alastor/阿拉斯托](https://mzh.moegirl.org.cn/%E9%98%BF%E6%8B%89%E6%96%AF%E6%89%98)
 - [《我在惊悚游戏里封神（无限）》](https://www.jjwxc.net/onebook.php?novelid=4218910)[白柳](https://baike.baidu.com/item/%E7%99%BD%E6%9F%B3/61123703)
 - [《刺客伍六七》](https://mzh.moegirl.org.cn/%E4%BC%8D%E5%85%AD%E4%B8%83)[伍六七](https://mzh.moegirl.org.cn/%E4%BC%8D%E5%85%AD%E4%B8%83(%E8%A7%92%E8%89%B2)#)
 - [《Dr.STONE石纪元》](https://mzh.moegirl.org.cn/%E7%9F%B3%E7%BA%AA%E5%85%83)[石神千空](https://mzh.moegirl.org.cn/%E7%9F%B3%E7%A5%9E%E5%8D%83%E7%A9%BA)
