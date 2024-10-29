@@ -2,7 +2,6 @@
 layout: post
 title: 《咒术回战》五条悟
 permalink: /gallery/gojo_satoru/
-published: false
 ---
 
 # 《咒术回战》五条悟
