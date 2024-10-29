@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: post
 title: 《文豪野犬》太宰治
 permalink: /gallery/dazai_osamu/
 ---
 
 # 《文豪野犬》太宰治
 
-[回到主页](../)
+[回到主页](../../)
 
 ---
 
@@ -42,4 +42,4 @@ permalink: /gallery/dazai_osamu/
 
 ---
 
-[回到主页](../)
+[回到主页](../../)

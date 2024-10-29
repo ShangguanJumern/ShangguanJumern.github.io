@@ -6,7 +6,7 @@ permalink: /gallery/gojo_satoru/
 
 # 《咒术回战》五条悟
 
-[回到主页](../)
+[回到主页](../../)
 
 ---
 
@@ -40,4 +40,4 @@ permalink: /gallery/gojo_satoru/
 
 ---
 
-[回到主页](../)
+[回到主页](../../)

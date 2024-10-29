@@ -6,7 +6,7 @@ permalink: /gallery/zhongli/
 
 # 《原神》钟离
 
-[回到主页](../)
+[回到主页](../../)
 
 ---
 
@@ -26,4 +26,4 @@ permalink: /gallery/zhongli/
 
 ---
 
-[回到主页](../)
+[回到主页](../../)

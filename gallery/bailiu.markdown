@@ -6,7 +6,7 @@ permalink: /gallery/bailiu/
 
 # 《惊封》白六/柳
 
-[回到主页](../)
+[回到主页](../../)
 
 ---
 
@@ -20,7 +20,7 @@ permalink: /gallery/bailiu/
 - 妆造：山峰；
 - 摄影/后期：山斯海耳SansHale。
 
-[回到主页](../)
+[回到主页](../../)
 
 ---
 
@@ -35,4 +35,4 @@ permalink: /gallery/bailiu/
 
 ---
 
-[回到主页](../)
+[回到主页](../../)

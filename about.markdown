@@ -9,6 +9,8 @@ permalink: /about/
 ## 一点碎碎念：
 - 本人比较慢热，还请各位来扩列的老师多担待~
 
+---
+
 ## 看过的作品：
 - [《文豪野犬》](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC)
 - [《我在惊悚游戏里封神（无限）》](https://www.jjwxc.net/onebook.php?novelid=4218910)
@@ -27,6 +29,8 @@ permalink: /about/
 - [《地狱客栈》](https://mzh.moegirl.org.cn/%E5%9C%B0%E7%8B%B1%E5%AE%A2%E6%A0%88)
 - [《极恶老大》](https://mzh.moegirl.org.cn/%E6%9E%81%E6%81%B6%E8%80%81%E5%A4%A7)
 
+---
+
 ## 我的推们：
 - 《文豪野犬》[太宰治](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC:%E5%A4%AA%E5%AE%B0%E6%B2%BB)
 - 《地狱客栈》[Alastor/阿拉斯托](https://mzh.moegirl.org.cn/%E9%98%BF%E6%8B%89%E6%96%AF%E6%89%90)
@@ -40,6 +44,8 @@ permalink: /about/
 - 《时光代理人》[陆光](https://mzh.moegirl.org.cn/%E9%99%86%E5%85%89)
 - 《原神》[钟离](https://mzh.moegirl.org.cn/%E9%92%9F%E7%A6%BB)
 - 《崩坏：星穹铁道》[砂金](https://mzh.moegirl.org.cn/%E7%A0%82%E9%87%91)
+
+---
 
 ## 目前在吃的饭：
 - 《文豪野犬》太宰治/中原中也
@@ -61,7 +67,6 @@ permalink: /about/
 - [绝区零](https://mzh.moegirl.org.cn/%E7%BB%9D%E5%8C%BA%E9%9B%B6)
 - [极限竞速系列](https://mzh.moegirl.org.cn/%E6%9E%81%E9%99%90%E7%AB%9E%E9%80%9F%E7%B3%BB%E5%88%97)
 - [VRChat](https://mzh.moegirl.org.cn/VRChat)
-
 
 ---
 
