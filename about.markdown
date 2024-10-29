@@ -1,19 +1,10 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
 # 上官玖梦的个人介绍
-
-## 基本信息：
-- CN：上官玖梦  
-  平时可以称呼我为“玖梦”
-- 坐标：广东
-- [处女座](https://baike.baidu.com/item/%E5%A4%84%E5%A5%B3%E5%BA%A7/2859614)
-- [INTP](https://www.16personalities.com/ch/intp-%E4%BA%BA%E6%A0%BC)
-- 生理性别男性
-- #过于理智致歉
 
 ## 本页目录
 - [玖梦老师的碎碎念](#rant)
@@ -29,9 +20,7 @@ permalink: /about/
 - [一些相关链接](#links)
 
 ## 一点碎碎念：
-- 本站黑蓝色文字均可点击直接跳转至文字对应的介绍喔~
 - 本人比较慢热，还请各位来扩列的老师多担待~
-- 上官玖梦老师仍在持续施工本站……
 
 ## 看过的作品：
 - [《文豪野犬》](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC)
