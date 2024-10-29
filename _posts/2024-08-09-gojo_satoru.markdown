@@ -12,13 +12,13 @@ permalink: /gallery/gojo_satoru/
 
 ## 黑西装私设
 
-![gojo_satoru-001](gojo_satoru/black_suit/gojo_satoru-001.jpg)
+![gojo_satoru-001](black_suit/gojo_satoru-001.jpg)
 
-![gojo_satoru-002](gojo_satoru/black_suit/gojo_satoru-002.jpg)
+![gojo_satoru-002](black_suit/gojo_satoru-002.jpg)
 
-![gojo_satoru-003](gojo_satoru/black_suit/gojo_satoru-003.jpg)
+![gojo_satoru-003](black_suit/gojo_satoru-003.jpg)
 
-![gojo_satoru-004](gojo_satoru/black_suit/gojo_satoru-004.jpg)
+![gojo_satoru-004](black_suit/gojo_satoru-004.jpg)
 
 - 出镜：上官玖梦；
 - 妆造：长河；
@@ -28,21 +28,21 @@ permalink: /gallery/gojo_satoru/
 
 ## 黑西装私设
 
-![gojo_satoru-005](gojo_satoru/black_suit/gojo_satoru-005.jpg)
+![gojo_satoru-005](black_suit/gojo_satoru-005.jpg)
 
-![gojo_satoru-006](gojo_satoru/black_suit/gojo_satoru-006.jpg)
+![gojo_satoru-006](black_suit/gojo_satoru-006.jpg)
 
-![gojo_satoru-007](gojo_satoru/black_suit/gojo_satoru-007.jpg)
+![gojo_satoru-007](black_suit/gojo_satoru-007.jpg)
 
-![gojo_satoru-008](gojo_satoru/black_suit/gojo_satoru-008.jpg)
+![gojo_satoru-008](black_suit/gojo_satoru-008.jpg)
 
-![gojo_satoru-009](gojo_satoru/black_suit/gojo_satoru-009.jpg)
+![gojo_satoru-009](black_suit/gojo_satoru-009.jpg)
 
-![gojo_satoru-010](gojo_satoru/black_suit/gojo_satoru-010.jpg)
+![gojo_satoru-010](black_suit/gojo_satoru-010.jpg)
 
-![gojo_satoru-011](gojo_satoru/black_suit/gojo_satoru-011.jpg)
+![gojo_satoru-011](black_suit/gojo_satoru-011.jpg)
 
-![gojo_satoru-012](gojo_satoru/black_suit/gojo_satoru-012.jpg)
+![gojo_satoru-012](black_suit/gojo_satoru-012.jpg)
 
 - 出镜：上官玖梦；
 - 妆造：长河；
