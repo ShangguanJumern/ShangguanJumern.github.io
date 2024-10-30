@@ -6,7 +6,7 @@ permalink: /about/
 
 # 关于上官玖梦
 
-## 本页目录
+## 本页目录 {#top}
 1. [玖梦老师的碎碎念](#rant)
 2. [部分看过的作品](#seen-fiction)
 3. [部分在推的角色](#favorite-characters)
@@ -16,6 +16,7 @@ permalink: /about/
 7. [一些“头衔”](#skills)
 8. [雷点](#minefields)
 9. [一些相关链接](#links)
+10. [返回首页](../)
 
 ---
 
@@ -42,6 +43,8 @@ permalink: /about/
 - [《地狱客栈》](https://mzh.moegirl.org.cn/%E5%9C%B0%E7%8B%B1%E5%AE%A2%E6%A0%88)
 - [《极恶老大》](https://mzh.moegirl.org.cn/%E6%9E%81%E6%81%B6%E8%80%81%E5%A4%A7)
 
+[回到目录](#top)
+
 ---
 
 ## 我的推们： {#favorite-characters}
@@ -58,6 +61,8 @@ permalink: /about/
 - [《原神》](https://mzh.moegirl.org.cn/%E5%8E%9F%E7%A5%9E)[钟离](https://mzh.moegirl.org.cn/%E9%92%9F%E7%A6%BB)
 - [《崩坏：星穹铁道》](https://mzh.moegirl.org.cn/%E5%B4%A9%E5%9D%8F%EF%BC%9A%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93)[砂金](https://mzh.moegirl.org.cn/%E7%A0%82%E9%87%91)
 
+[回到目录](#top)
+
 ---
 
 ## 目前在吃的饭： {#couple-pairings}
@@ -71,6 +76,8 @@ permalink: /about/
 - [太宰治/中原中也](https://www.lofter.com/tag/%E5%A4%AA%E4%B8%AD)
 - [凪诚士郎/御影玲王](https://www.lofter.com/tag/%E5%87%AA%E7%8E%B2)
 
+[回到目录](#top)
+
 ---
 
 ## 玩过的游戏： {#games}
@@ -80,6 +87,8 @@ permalink: /about/
 - [绝区零](https://mzh.moegirl.org.cn/%E7%BB%9D%E5%8C%BA%E9%9B%B6)
 - [极限竞速系列](https://mzh.moegirl.org.cn/%E6%9E%81%E9%99%90%E7%AB%9E%E9%80%9F%E7%B3%BB%E5%88%97)
 - [VRChat](https://mzh.moegirl.org.cn/VRChat)
+
+[回到目录](#top)
 
 ---
 
@@ -92,6 +101,8 @@ permalink: /about/
 - 剧本杀
 - [Cosplay](https://mzh.moegirl.org.cn/Cosplay(%E6%B4%BB%E5%8A%A8)#)
 
+[回到目录](#top)
+
 ---
 
 ## 二三次分号 {#skills}
@@ -99,6 +110,8 @@ permalink: /about/
 - 摄影师
 - 视频/图片菜鸟后期
 - 业余塔罗牌占卜师
+
+[回到目录](#top)
 
 ---
 
@@ -111,6 +124,8 @@ permalink: /about/
 - 毫无自知之明
 - 大众雷
 
+[回到目录](#top)
+
 ---
 
 ## 相关链接： {#links}
@@ -119,3 +134,7 @@ permalink: /about/
 - [《绝区零》游戏官网](https://zzz.mihoyo.com/main/)
 - [《极限竞速：地平线5》Steam商店页面](https://store.steampowered.com/app/1551360/_5/?l=schinese)
 - [VRChat Wiki](https://wiki.vrchat.com/wiki/Getting_Started/zh-hans)
+
+---
+
+[回到目录](#top)

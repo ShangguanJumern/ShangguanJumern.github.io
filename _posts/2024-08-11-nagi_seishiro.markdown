@@ -6,7 +6,7 @@ permalink: /gallery/nagi_seishiro/
 
 # 《蓝色监狱》凪诚士郎
 
-[回到目录](../)
+[回到图库](../)
 
 ---
 
@@ -30,4 +30,4 @@ permalink: /gallery/nagi_seishiro/
 
 ---
 
-[回到目录](../)
+[回到图库](../)

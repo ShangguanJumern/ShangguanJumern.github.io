@@ -4,7 +4,7 @@ title: 图库
 permalink: /gallery/
 ---
 
-[返回上级](../contents/)
+[返回首页](../)
 
 ---
 
@@ -20,4 +20,4 @@ permalink: /gallery/
 
 ---
 
-[返回上级](../contents/)
+~~不知不觉中就攒了这么多图片 (￣▽￣)~*~~
