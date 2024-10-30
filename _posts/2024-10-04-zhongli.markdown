@@ -14,6 +14,18 @@ permalink: /gallery/zhongli/
 
 ---
 
+## 天动万象
+
+<div class="fullsize">
+    <img src="classic/zhongli-tian_dong_wan_xiang.jpg">
+</div>
+
+- 出镜：上官玖梦；
+- 妆造：念稚；
+- 摄影/后期：山斯海耳SansHale。
+
+---
+
 ## 经典皮肤
 
 <div class="horizontal">
