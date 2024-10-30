@@ -4,6 +4,11 @@ title: 《间谍过家家》黄昏
 permalink: /gallery/twilight/
 ---
 
+<haed>
+    <link rel="stylesheet" href="../../css/hc-gallery.css">
+</haed>
+
+
 # 《间谍过家家》黄昏
 
 [回到目录](../)
@@ -12,17 +17,14 @@ permalink: /gallery/twilight/
 
 ## 经典皮肤
 
-<div>
-    <link rel="stylesheet" href="../../css/hc-gallery.css">
-    <div class="gallery">
-        <img src="classic/twilight-001.jpg" alt="twilight-001">
-        <img src="classic/twilight-002.jpg" alt="twilight-002">
-        <img src="classic/twilight-003.jpg" alt="twilight-003">
-        <img src="classic/twilight-004.jpg" alt="twilight-004">
-        <img src="classic/twilight-005.jpg" alt="twilight-005">
-        <img src="classic/twilight-006.jpg" alt="twilight-006">
-        <img src="classic/twilight-007.jpg" alt="twilight-007">
-    </div>
+<div class="gallery">
+    <img src="classic/twilight-001.jpg" alt="twilight-001">
+    <img src="classic/twilight-002.jpg" alt="twilight-002">
+    <img src="classic/twilight-003.jpg" alt="twilight-003">
+    <img src="classic/twilight-004.jpg" alt="twilight-004">
+    <img src="classic/twilight-005.jpg" alt="twilight-005">
+    <img src="classic/twilight-006.jpg" alt="twilight-006">
+    <img src="classic/twilight-007.jpg" alt="twilight-007">
 </div>
 
 - 出镜：上官玖梦；
