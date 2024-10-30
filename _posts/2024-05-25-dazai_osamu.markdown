@@ -14,7 +14,7 @@ permalink: /gallery/dazai_osamu/
 
 ---
 
-<div class="horizontal">
+<div class="fullsize">
     <img src="mafia/dazai_osamu-showcase.jpg">
 </div>
 

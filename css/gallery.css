@@ -1,3 +1,15 @@
+.fullsize {
+    display: flex;
+    flex-wrap: wrap; /* 允许图片换行 */
+    justify-content: space-around; /* 图片之间的间距 */
+}
+
+.fullsize img {
+    max-width: calc(100% - 20px); /* 确保每行两张图片，留出间隔 */
+    height: auto; /* 保持图片原始比例 */
+    margin: 20px; /* 图片之间的间隔 */
+}
+
 .horizontal {
     display: flex;
     flex-wrap: wrap; /* 允许图片换行 */
