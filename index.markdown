@@ -11,7 +11,7 @@ title: 首页
 
 ---
 
-1. [上官玖梦简介](introduction/)（联系方式）
+1. [上官玖梦简介](introduction/) **（联系方式）**
 2. [关于上官玖梦](about/)
 3. [COS照图库目录](gallery/)
 4. [Cosplay计划表](timetable/)
