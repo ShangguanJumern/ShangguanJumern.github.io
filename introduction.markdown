@@ -8,7 +8,7 @@ permalink: /introduction/
 
 ---
 
-![Avatar](images/avatar.jpg)
+![Avatar](../images/avatar.jpg)
 
 >**玖重峰峦叠翠微，梦游仙境忘归途。**
 
@@ -37,11 +37,11 @@ permalink: /introduction/
 
 **QQ：2099212720**
 
-![QQ QRCode](images/QQ-QRCode.jpg)
+![QQ QRCode](../images/QQ-QRCode.jpg)
 
 **WeChat：Jumernn**
 
-![WeChat QRCode](images/WeChat-QRCode.png)
+![WeChat QRCode](../images/WeChat-QRCode.png)
 
 [跳转至bilibili主页](https://space.bilibili.com/353199743)
 
