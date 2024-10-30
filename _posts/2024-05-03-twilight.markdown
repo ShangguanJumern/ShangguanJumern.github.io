@@ -12,19 +12,18 @@ permalink: /gallery/twilight/
 
 ## 经典皮肤
 
-![twilight-001](classic/twilight-001.jpg)
-
-![twilight-002](classic/twilight-002.jpg)
-
-![twilight-003](classic/twilight-003.jpg)
-
-![twilight-004](classic/twilight-004.jpg)
-
-![twilight-005](classic/twilight-005.jpg)
-
-![twilight-006](classic/twilight-006.jpg)
-
-![twilight-007](classic/twilight-007.jpg)
+<div>
+    <link rel="stylesheet" href="../../css/hc-gallery.css">
+    <div class="gallery">
+        <img src="classic/twilight-001.jpg" alt="twilight-001">
+        <img src="classic/twilight-002.jpg" alt="twilight-002">
+        <img src="classic/twilight-003.jpg" alt="twilight-003">
+        <img src="classic/twilight-004.jpg" alt="twilight-004">
+        <img src="classic/twilight-005.jpg" alt="twilight-005">
+        <img src="classic/twilight-006.jpg" alt="twilight-006">
+        <img src="classic/twilight-007.jpg" alt="twilight-007">
+    </div>
+</div>
 
 - 出镜：上官玖梦；
 - 妆造：念稚；
