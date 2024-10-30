@@ -4,6 +4,10 @@ title: 《无头骑士异闻录》平和岛静雄
 permalink: /gallery/heiwajima_shizuo/
 ---
 
+<haed>
+    <link rel="stylesheet" href="../../css/gallery.css">
+</haed>
+
 # 《无头骑士异闻录》平和岛静雄
 
 [回到图库](../)
@@ -12,12 +16,14 @@ permalink: /gallery/heiwajima_shizuo/
 
 ## 经典皮肤
 
-![heiwajima_shizuo-001](classic/heiwajima_shizuo-001.jpg)
-![heiwajima_shizuo-002](classic/heiwajima_shizuo-002.jpg)
-![heiwajima_shizuo-003](classic/heiwajima_shizuo-003.jpg)
-![heiwajima_shizuo-004](classic/heiwajima_shizuo-004.jpg)
-![heiwajima_shizuo-005](classic/heiwajima_shizuo-005.jpg)
-![heiwajima_shizuo-006](classic/heiwajima_shizuo-006.jpg)
+<div class="horizontal">
+    <img src="classic/heiwajima_shizuo-001.jpg">
+    <img src="classic/heiwajima_shizuo-002.jpg">
+    <img src="classic/heiwajima_shizuo-003.jpg">
+    <img src="classic/heiwajima_shizuo-004.jpg">
+    <img src="classic/heiwajima_shizuo-005.jpg">
+    <img src="classic/heiwajima_shizuo-006.jpg">
+</div>
 
 - 出镜：上官玖梦；
 - 妆造：明川；

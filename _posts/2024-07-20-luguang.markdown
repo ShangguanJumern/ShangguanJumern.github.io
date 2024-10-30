@@ -4,6 +4,10 @@ title: 《时光代理人》陆光
 permalink: /gallery/luguang/
 ---
 
+<haed>
+    <link rel="stylesheet" href="../../css/gallery.css">
+</haed>
+
 # 《时光代理人》陆光
 
 [回到图库](../)
@@ -12,17 +16,14 @@ permalink: /gallery/luguang/
 
 ## 经典皮肤
 
-![luguang-001](classic/luguang-001.jpg)
-
-![luguang-002](classic/luguang-002.jpg)
-
-![luguang-003](classic/luguang-003.jpg)
-
-![luguang-004](classic/luguang-004.jpg)
-
-![luguang-005](classic/luguang-005.jpg)
-
-![luguang-006](classic/luguang-006.jpg)
+<div class="horizontal">
+    <img src="classic/luguang-001.jpg">
+    <img src="classic/luguang-002.jpg">
+    <img src="classic/luguang-003.jpg">
+    <img src="classic/luguang-004.jpg">
+    <img src="classic/luguang-005.jpg">
+    <img src="classic/luguang-006.jpg">
+</div>
 
 - 出镜：上官玖梦；
 - 妆造：山峰；

@@ -4,6 +4,10 @@ title: 《惊封》白六/柳
 permalink: /gallery/bailiu/
 ---
 
+<haed>
+    <link rel="stylesheet" href="../../css/gallery.css">
+</haed>
+
 # 《惊封》白六/柳
 
 [回到图库](../)
@@ -12,11 +16,11 @@ permalink: /gallery/bailiu/
 
 ## 白六
 
-![白六-001](classic/bailiu-001.jpg)
-
-![白六-002](classic/bailiu-002.jpg)
-
-![白六-003](classic/bailiu-003.jpg)
+<div class="horizontal">
+    <img src="classic/bailiu-001.jpg">
+    <img src="classic/bailiu-002.jpg">
+    <img src="classic/bailiu-003.jpg">
+</div>
 
 - 出镜：上官玖梦；
 - 妆造：山峰；
@@ -28,9 +32,10 @@ permalink: /gallery/bailiu/
 
 ## 白柳
 
-![白柳-004](classic/bailiu-004.jpg)
-
-![白柳-005](classic/bailiu-005.jpg)
+<div class="horizontal">
+    <img src="classic/bailiu-004.jpg">
+    <img src="classic/bailiu-005.jpg">
+</div>
 
 - 出镜：上官玖梦；
 - 妆造：山峰；

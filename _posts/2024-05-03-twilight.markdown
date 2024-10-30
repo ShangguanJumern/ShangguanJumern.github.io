@@ -5,7 +5,7 @@ permalink: /gallery/twilight/
 ---
 
 <haed>
-    <link rel="stylesheet" href="../../css/hc-gallery.css">
+    <link rel="stylesheet" href="../../css/gallery.css">
 </haed>
 
 
@@ -17,7 +17,7 @@ permalink: /gallery/twilight/
 
 ## 经典皮肤
 
-<div class="gallery">
+<div class="horizontal">
     <img src="classic/twilight-001.jpg" alt="twilight-001">
     <img src="classic/twilight-002.jpg" alt="twilight-002">
     <img src="classic/twilight-003.jpg" alt="twilight-003">

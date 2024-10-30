@@ -4,6 +4,10 @@ title: 《蓝色监狱》凪诚士郎
 permalink: /gallery/nagi_seishiro/
 ---
 
+<haed>
+    <link rel="stylesheet" href="../../css/gallery.css">
+</haed>
+
 # 《蓝色监狱》凪诚士郎
 
 [回到图库](../)
@@ -12,17 +16,14 @@ permalink: /gallery/nagi_seishiro/
 
 ## 蓝色监狱警卫服
 
-![nagi_seishiro-001](guard_uniform/nagi_seishiro-001.jpg)
-
-![nagi_seishiro-002](guard_uniform/nagi_seishiro-002.jpg)
-
-![nagi_seishiro-003](guard_uniform/nagi_seishiro-003.jpg)
-
-![nagi_seishiro-004](guard_uniform/nagi_seishiro-004.jpg)
-
-![nagi_seishiro-005](guard_uniform/nagi_seishiro-005.jpg)
-
-![nagi_seishiro-006](guard_uniform/nagi_seishiro-006.jpg)
+<div class="horizontal">
+    <img src="guard_uniform/nagi_seishiro-001.jpg">
+    <img src="guard_uniform/nagi_seishiro-002.jpg">
+    <img src="guard_uniform/nagi_seishiro-003.jpg">
+    <img src="guard_uniform/nagi_seishiro-004.jpg">
+    <img src="guard_uniform/nagi_seishiro-005.jpg">
+    <img src="guard_uniform/nagi_seishiro-006.jpg">
+</div>
 
 - 出镜：上官玖梦；
 - 妆造：长河；

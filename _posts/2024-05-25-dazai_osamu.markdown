@@ -4,13 +4,19 @@ title: 《文豪野犬》太宰治
 permalink: /gallery/dazai_osamu/
 ---
 
+<haed>
+    <link rel="stylesheet" href="../../css/gallery.css">
+</haed>
+
 # 《文豪野犬》太宰治
 
 [回到图库](../)
 
 ---
 
-![dazai_osamu-showcase](mafia/dazai_osamu-showcase.jpg)
+<div class="horizontal">
+    <img src="mafia/dazai_osamu-showcase.jpg">
+</div>
 
 - 出镜/妆造：上官玖梦；
 - 摄影：unkown；
@@ -20,15 +26,13 @@ permalink: /gallery/dazai_osamu/
 
 ## 黑之时代
 
-![dazai_osamu-001](mafia/dazai_osamu-001.jpg)
-
-![dazai_osamu-002](mafia/dazai_osamu-002.jpg)
-
-![dazai_osamu-003](mafia/dazai_osamu-003.jpg)
-
-![dazai_osamu-004](mafia/dazai_osamu-004.jpg)
-
-![dazai_osamu-005](mafia/dazai_osamu-005.jpg)
+<div class="vertical">
+    <img src="mafia/dazai_osamu-001.jpg">
+    <img src="mafia/dazai_osamu-002.jpg">
+    <img src="mafia/dazai_osamu-003.jpg">
+    <img src="mafia/dazai_osamu-004.jpg">
+    <img src="mafia/dazai_osamu-005.jpg">
+</div>
 
 - ——by野生摄影
 
@@ -36,11 +40,11 @@ permalink: /gallery/dazai_osamu/
 
 ## 武装侦探社时期
 
-![dazai_osamu-006](detective/dazai_osamu-006.jpg)
-
-![dazai_osamu-007](detective/dazai_osamu-007.jpg)
-
-![dazai_osamu-008](detective/dazai_osamu-008.jpg)
+<div class="vertical">
+    <img src="detective/dazai_osamu-006.jpg">
+    <img src="detective/dazai_osamu-007.jpg">
+    <img src="detective/dazai_osamu-008.jpg">
+</div>
 
 - 出镜：上官玖梦；
 - 妆造：念稚；
