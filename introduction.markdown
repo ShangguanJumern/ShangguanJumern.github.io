@@ -12,7 +12,9 @@ permalink: /introduction/
 
 ---
 
-![Avatar](../images/avatar.jpg)
+<div class="vertical">
+  <img src="../images/avatar.jpg">
+</div>
 
 >**玖重峰峦叠翠微，梦游仙境忘归途。**
 
