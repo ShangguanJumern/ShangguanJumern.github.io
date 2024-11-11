@@ -39,8 +39,8 @@ permalink: /introduction/
 
 ## 联系方式：
 
-- **QQ：** 2099212720
 - **WeChat：** Jumernn
+- **QQ：** 2099212720
 
 <div class="vertical">
   <img src="../images/WeChat-QRCode.png">
