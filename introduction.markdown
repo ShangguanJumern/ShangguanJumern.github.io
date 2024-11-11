@@ -4,6 +4,10 @@ title: 简介
 permalink: /introduction/
 ---
 
+<haed>
+    <link rel="stylesheet" href="../../css/gallery.css">
+</haed>
+
 # 上官玖梦简介
 
 ---
@@ -35,13 +39,13 @@ permalink: /introduction/
 
 ## 联系方式：
 
-**QQ：2099212720**
+- **QQ：** 2099212720
+- **WeChat：** Jumernn
 
-![QQ QRCode](../images/QQ-QRCode.jpg)
-
-**WeChat：Jumernn**
-
-![WeChat QRCode](../images/WeChat-QRCode.png)
+<div class="vertical">
+  <img src="../images/WeChat-QRCode.png">
+  <img src="../images/QQ-QRCode.jpg">
+</div>
 
 [跳转至bilibili主页](https://space.bilibili.com/353199743)
 
