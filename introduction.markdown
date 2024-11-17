@@ -13,7 +13,7 @@ permalink: /introduction/
 ---
 
 <div class="vertical">
-  <img src="../images/avatar.jpg">
+  <img src="https://image.hokubu.cn/i/2024/11/17/6739e2a34ff36.jpg">
 </div>
 
 >**玖重峰峦叠翠微，梦游仙境忘归途。**
@@ -45,8 +45,8 @@ permalink: /introduction/
 - **QQ：** 2099212720
 
 <div class="vertical">
-  <img src="../images/WeChat-QRCode.png">
-  <img src="../images/QQ-QRCode.jpg">
+  <img src="https://image.hokubu.cn/i/2024/11/17/6739e2a249712.png">
+  <img src="https://image.hokubu.cn/i/2024/11/17/6739e2a2be1dc.jpg">
 </div>
 
 [跳转至bilibili主页](https://space.bilibili.com/353199743)
