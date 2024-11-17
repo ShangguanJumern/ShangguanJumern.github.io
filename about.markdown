@@ -16,7 +16,7 @@ permalink: /about/
 7. [一些“头衔”](#skills)
 8. [雷点](#minefields)
 9. [一些相关链接](#links)
-10. [返回首页](../)
+10. [**返回首页**](https://www.jumern.com/)
 
 ---
 

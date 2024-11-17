@@ -20,7 +20,7 @@ permalink: /introduction/
 
 ---
 
-[返回首页](../)
+[返回首页](https://www.jumern.com/)
 
 ---
 
@@ -35,7 +35,7 @@ permalink: /introduction/
 
 ---
 
-[返回首页](../)
+[返回首页](https://www.jumern.com/)
 
 ---
 
@@ -53,8 +53,6 @@ permalink: /introduction/
 
 ---
 
-[返回首页](../)
+[返回首页](https://www.jumern.com/)
 
 **上官玖梦老师仍在持续施工本站……**
-
-~~许多功能暂未实装在此站~~

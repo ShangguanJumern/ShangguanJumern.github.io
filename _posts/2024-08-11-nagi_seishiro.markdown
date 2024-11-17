@@ -11,6 +11,7 @@ permalink: /gallery/nagi_seishiro/
 # 《蓝色监狱》凪诚士郎
 
 [回到图库](../)
+[**返回首页**](https://www.jumern.com/)
 
 ---
 
@@ -32,3 +33,4 @@ permalink: /gallery/nagi_seishiro/
 ---
 
 [回到图库](../)
+[**返回首页**](https://www.jumern.com/)

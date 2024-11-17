@@ -11,6 +11,7 @@ permalink: /gallery/heiwajima_shizuo/
 # 《无头骑士异闻录》平和岛静雄
 
 [回到图库](../)
+[**返回首页**](https://www.jumern.com/)
 
 ---
 
@@ -32,3 +33,4 @@ permalink: /gallery/heiwajima_shizuo/
 ---
 
 [回到图库](../)
+[**返回首页**](https://www.jumern.com/)

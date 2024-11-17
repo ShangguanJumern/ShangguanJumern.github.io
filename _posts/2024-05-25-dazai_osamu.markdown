@@ -11,6 +11,7 @@ permalink: /gallery/dazai_osamu/
 # 《文豪野犬》太宰治
 
 [回到图库](../)
+[**返回首页**](https://www.jumern.com/)
 
 ---
 
@@ -53,3 +54,4 @@ permalink: /gallery/dazai_osamu/
 ---
 
 [回到图库](../)
+[**返回首页**](https://www.jumern.com/)

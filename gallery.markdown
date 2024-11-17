@@ -4,7 +4,7 @@ title: 图库
 permalink: /gallery/
 ---
 
-[返回首页](../)
+[返回首页](https://www.jumern.com/)
 
 ---
 

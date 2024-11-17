@@ -11,6 +11,7 @@ permalink: /gallery/gojo_satoru/
 # 《咒术回战》五条悟
 
 [回到图库](../)
+[**返回首页**](https://www.jumern.com/)
 
 ---
 
@@ -49,3 +50,4 @@ permalink: /gallery/gojo_satoru/
 ---
 
 [回到图库](../)
+[**返回首页**](https://www.jumern.com/)
