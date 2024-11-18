@@ -18,12 +18,12 @@ permalink: /gallery/nagi_seishiro/
 ## 蓝色监狱警卫服
 
 <div class="horizontal">
-    <img src="guard_uniform/nagi_seishiro-001.jpg">
-    <img src="guard_uniform/nagi_seishiro-002.jpg">
-    <img src="guard_uniform/nagi_seishiro-003.jpg">
-    <img src="guard_uniform/nagi_seishiro-004.jpg">
-    <img src="guard_uniform/nagi_seishiro-005.jpg">
-    <img src="guard_uniform/nagi_seishiro-006.jpg">
+    <img src="https://image.hokubu.cn/i/2024/11/18/673ae98ed0a7c.jpg" alt="nagi_seishiro-001.jpg" title="nagi_seishiro-001.jpg" />
+    <img src="https://image.hokubu.cn/i/2024/11/18/673ae990bc355.jpg" alt="nagi_seishiro-002.jpg" title="nagi_seishiro-002.jpg" />
+    <img src="https://image.hokubu.cn/i/2024/11/18/673ae99254080.jpg" alt="nagi_seishiro-003.jpg" title="nagi_seishiro-003.jpg" />
+    <img src="https://image.hokubu.cn/i/2024/11/18/673ae993e598c.jpg" alt="nagi_seishiro-004.jpg" title="nagi_seishiro-004.jpg" />
+    <img src="https://image.hokubu.cn/i/2024/11/18/673ae9955e73d.jpg" alt="nagi_seishiro-005.jpg" title="nagi_seishiro-005.jpg" />
+    <img src="https://image.hokubu.cn/i/2024/11/18/673ae996ede0d.jpg" alt="nagi_seishiro-006.jpg" title="nagi_seishiro-006.jpg" />
 </div>
 
 - 出镜：上官玖梦；
