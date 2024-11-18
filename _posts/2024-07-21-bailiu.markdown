@@ -18,9 +18,9 @@ permalink: /gallery/bailiu/
 ## 白六
 
 <div class="horizontal">
-    <img src="classic/bailiu-001.jpg">
-    <img src="classic/bailiu-002.jpg">
-    <img src="classic/bailiu-003.jpg">
+    <img src="https://image.hokubu.cn/i/2024/11/18/673ad8559098e.jpg">
+    <img src="https://image.hokubu.cn/i/2024/11/18/673ad855882aa.jpg">
+    <img src="https://image.hokubu.cn/i/2024/11/18/673ad855829f8.jpg">
 </div>
 
 - 出镜：上官玖梦；
@@ -35,8 +35,8 @@ permalink: /gallery/bailiu/
 ## 白柳
 
 <div class="horizontal">
-    <img src="classic/bailiu-004.jpg">
-    <img src="classic/bailiu-005.jpg">
+    <img src="https://image.hokubu.cn/i/2024/11/18/673ad85674b92.jpg">
+    <img src="https://image.hokubu.cn/i/2024/11/18/673ad856ca64f.jpg">
 </div>
 
 - 出镜：上官玖梦；
