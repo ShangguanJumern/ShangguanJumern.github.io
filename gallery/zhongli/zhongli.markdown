@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 《原神》钟离
 permalink: /gallery/zhongli/
 ---

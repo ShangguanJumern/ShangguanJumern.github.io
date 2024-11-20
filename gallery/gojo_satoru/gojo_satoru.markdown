@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 《咒术回战》五条悟
 permalink: /gallery/gojo_satoru/
 ---

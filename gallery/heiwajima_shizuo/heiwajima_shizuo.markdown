@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 《无头骑士异闻录》平和岛静雄
 permalink: /gallery/heiwajima_shizuo/
 ---

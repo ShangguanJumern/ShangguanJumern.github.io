@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 《时光代理人》陆光
 permalink: /gallery/luguang/
 ---

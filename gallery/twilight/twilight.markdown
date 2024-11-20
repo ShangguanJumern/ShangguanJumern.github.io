@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 《间谍过家家》黄昏
 permalink: /gallery/twilight/
 ---

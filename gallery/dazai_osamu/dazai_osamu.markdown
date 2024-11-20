@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 《文豪野犬》太宰治
 permalink: /gallery/dazai_osamu/
 ---

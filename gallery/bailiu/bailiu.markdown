@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 《惊封》白六/柳
 permalink: /gallery/bailiu/
 ---
