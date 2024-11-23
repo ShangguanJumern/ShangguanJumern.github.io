@@ -11,7 +11,7 @@ permalink: /sell-things/bungo-stray-dogs/
 # 本出物条目录
 
 1. [太宰治 吧唧小set](#太宰治吧唧小set)
-2. [立原道造色纸+透卡](#立原道造色纸+透卡)
+2. [立原道造色纸+透卡+拍立得](#立原道造色纸+透卡+拍立得)
 3. [谷崎润一郎 吧唧小set](#谷崎润一郎吧唧小set)
 4. [森鸥外 爱丽丝 吧唧](#森鸥外爱丽丝吧唧)
 
@@ -46,19 +46,20 @@ permalink: /sell-things/bungo-stray-dogs/
 
 ---
 
-## 立原道造色纸+透卡
+## 立原道造色纸+透卡+拍立得
 
 线下读博产物，有原袋，默认出厂瑕。
 
 [**闲鱼直链**](https://h5.m.goofish.com/item?forceFlush=1&id=847725838151&ut_sk=1.ZOG4Zyyi2k4DAJHOVmQ3U4Xu_21407387_1732111936627.copy.detail.847725838151.4040330283)
 
-- 色纸+透卡 - **16r**
+- 色纸+透卡+两张拍立得 - **20r**
 
-下方图片依次为：怀旧风色纸，相卡风透卡。
+下方图片依次为：怀旧风色纸，相卡风透卡，第五弹拍立得。
 
 <div class="horizontal">
     <img src="https://image.hokubu.cn/i/2024/11/20/673df5a114d65.jpg" alt="image_editor_1732110855111.jpg" title="image_editor_1732110855111.jpg" />
     <img src="https://image.hokubu.cn/i/2024/11/20/673df5a18e97a.jpg" alt="IMG_20241119_132759.jpg" title="IMG_20241119_132759.jpg" />
+    <img src="https://image.hokubu.cn/i/2024/11/23/6741a8d125319.jpg" alt="IMG_20241123_173534.jpg" title="IMG_20241123_173534.jpg" />
 </div>
 
 ---
