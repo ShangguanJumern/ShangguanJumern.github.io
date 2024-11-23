@@ -33,6 +33,7 @@ permalink: /about/
 - [《刺客伍六七》](https://mzh.moegirl.org.cn/%E4%BC%8D%E5%85%AD%E4%B8%83)
 - [《时光代理人》](https://mzh.moegirl.org.cn/%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA)
 - [《终结的炽天使》](https://mzh.moegirl.org.cn/%E7%BB%88%E7%BB%93%E7%9A%84%E7%82%BD%E5%A4%A9%E4%BD%BF)
+- [《咒术回战》](https://mzh.moegirl.org.cn/%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98)
 - [《间谍过家家》](https://mzh.moegirl.org.cn/%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6)
 - [《Dr.STONE石纪元》](https://mzh.moegirl.org.cn/%E7%9F%B3%E7%BA%AA%E5%85%83)
 - [《名侦探柯南》](https://mzh.moegirl.org.cn/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97)
