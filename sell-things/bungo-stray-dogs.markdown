@@ -72,7 +72,7 @@ permalink: /sell-things/bungo-stray-dogs/
 
 [**闲鱼直链**]( https://h5.m.goofish.com/item?forceFlush=1&id=852710648877&ut_sk=1.ZOG4Zyyi2k4DAJHOVmQ3U4Xu_21407387_1732111936627.copy.detail.852710648877.4040330283)
 
-- 两个吧唧打包带走 - **26r**
+- 两个吧唧打包带走 - **28r**
 - 森鸥外抱娃q版吧唧 - **20r**
 - 爱丽丝激推vol9吧唧 - **16r**
 
