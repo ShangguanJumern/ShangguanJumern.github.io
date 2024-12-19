@@ -16,6 +16,7 @@ permalink: /timetable/
 - [x] 《无头骑士异闻录》平和岛静雄 [`图库`](../gallery/heiwajima_shizuo/)
 - [x] 《咒术回战》五条悟黑西装 [`图库`](../gallery/gojo_satoru/)
 - [x] 《蓝色监狱》凪诚士郎警卫服 [`图库`](../gallery/nagi_seishiro/)
+- [ ] 《绝区零》浅羽悠真
 - [ ] 《终结的炽天使》费里德·巴特利
 - [ ] 《成龙历险记》瓦龙
 - [ ] 《刺客伍六七》柒
