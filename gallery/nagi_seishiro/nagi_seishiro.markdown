@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 《蓝色监狱》凪诚士郎
+title: 凪诚士郎
 permalink: /gallery/nagi_seishiro/
 ---
 
@@ -8,7 +8,7 @@ permalink: /gallery/nagi_seishiro/
     <link rel="stylesheet" href="../../css/gallery.css">
 </haed>
 
-# 《蓝色监狱》凪诚士郎
+# 《蓝色监狱》
 
 [回到图库](../)
 [**返回首页**](https://www.jumern.com/)

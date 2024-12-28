@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 《原神》钟离
+title: 钟离
 permalink: /gallery/zhongli/
 ---
 
@@ -8,7 +8,7 @@ permalink: /gallery/zhongli/
     <link rel="stylesheet" href="../../css/gallery.css">
 </haed>
 
-# 《原神》钟离
+# 《原神》
 
 [回到图库](../)
 [**返回首页**](https://www.jumern.com/)

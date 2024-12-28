@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 《惊封》白六/柳
+title: 白六/柳
 permalink: /gallery/bailiu/
 ---
 
@@ -8,7 +8,7 @@ permalink: /gallery/bailiu/
     <link rel="stylesheet" href="../../css/gallery.css">
 </haed>
 
-# 《惊封》白六/柳
+# 《我在惊悚游戏里封神（无限）》
 
 [回到图库](../)
 [**返回首页**](https://www.jumern.com/)

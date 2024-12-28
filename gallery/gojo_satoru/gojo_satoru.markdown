@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 《咒术回战》五条悟
+title: 五条悟
 permalink: /gallery/gojo_satoru/
 ---
 
@@ -8,7 +8,7 @@ permalink: /gallery/gojo_satoru/
     <link rel="stylesheet" href="../../css/gallery.css">
 </haed>
 
-# 《咒术回战》五条悟
+# 《咒术回战》
 
 [回到图库](../)
 [**返回首页**](https://www.jumern.com/)

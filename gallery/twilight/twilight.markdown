@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 《间谍过家家》黄昏
+title: 黄昏
 permalink: /gallery/twilight/
 ---
 
@@ -9,7 +9,7 @@ permalink: /gallery/twilight/
 </haed>
 
 
-# 《间谍过家家》黄昏
+# 《间谍过家家》
 
 [回到图库](../)
 [**返回首页**](https://www.jumern.com/)

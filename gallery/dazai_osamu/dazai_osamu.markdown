@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 《文豪野犬》太宰治
+title: 太宰治
 permalink: /gallery/dazai_osamu/
 ---
 
@@ -8,7 +8,7 @@ permalink: /gallery/dazai_osamu/
     <link rel="stylesheet" href="../../css/gallery.css">
 </haed>
 
-# 《文豪野犬》太宰治
+# 《文豪野犬》
 
 [回到图库](../)
 [**返回首页**](https://www.jumern.com/)

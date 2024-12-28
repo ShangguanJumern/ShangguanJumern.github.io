@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 《无头骑士异闻录》平和岛静雄
+title: 平和岛静雄
 permalink: /gallery/heiwajima_shizuo/
 ---
 
@@ -8,7 +8,7 @@ permalink: /gallery/heiwajima_shizuo/
     <link rel="stylesheet" href="../../css/gallery.css">
 </haed>
 
-# 《无头骑士异闻录》平和岛静雄
+# 《无头骑士异闻录》
 
 [回到图库](../)
 [**返回首页**](https://www.jumern.com/)
