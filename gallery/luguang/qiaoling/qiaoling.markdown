@@ -11,7 +11,7 @@ permalink: /gallery/luguang/qiaoling/
 
 ---
 
-![HOI03210_v4_Watermarked.jpg](https://image.hokubu.cn/i/2024/12/28/6770021330e13.jpg)
+![luguang&qiaoling_v4.jpg](https://image.jumern.com/cosplay/luguang&qiaoling_v4.jpg)
 
 - 出镜：
     - 乔苓：祐岁；
