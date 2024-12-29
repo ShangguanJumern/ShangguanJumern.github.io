@@ -24,15 +24,15 @@ permalink: /gallery/luguang/
 ## 经典皮肤
 
 <div class="vertical">
-    <img src="https://image.hokubu.cn/i/2024/11/18/673ae921145a4.jpg" alt="luguang-001.jpg" title="luguang-001.jpg" />
-    <img src="https://image.hokubu.cn/i/2024/11/18/673ae91f857ed.jpg" alt="luguang-005.jpg" title="luguang-005.jpg" />
-    <img src="https://image.hokubu.cn/i/2024/11/18/673ae92004219.jpg" alt="luguang-006.jpg" title="luguang-006.jpg" />
+    <img src="https://image.jumern.com/cosplay/luguang-001.jpg" />
+    <img src="https://image.jumern.com/cosplay/luguang-005.jpg" />
+    <img src="https://image.jumern.com/cosplay/luguang-006.jpg" />
 </div>
 
 <div class="horizontal">
-    <img src="https://image.hokubu.cn/i/2024/11/18/673ae91f9d2bf.jpg" alt="luguang-002.jpg" title="luguang-002.jpg" />
-    <img src="https://image.hokubu.cn/i/2024/11/18/673ae920e7432.jpg" alt="luguang-003.jpg" title="luguang-003.jpg" />
-    <img src="https://image.hokubu.cn/i/2024/11/18/673ae91fa3429.jpg" alt="luguang-004.jpg" title="luguang-004.jpg" />
+    <img src="https://image.jumern.com/cosplay/luguang-002.jpg" />
+    <img src="https://image.jumern.com/cosplay/luguang-003.jpg" />
+    <img src="https://image.jumern.com/cosplay/luguang-004.jpg" />
 </div>
 
 - 出镜：上官玖梦；
