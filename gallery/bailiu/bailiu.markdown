@@ -18,9 +18,9 @@ permalink: /gallery/bailiu/
 ## 白六
 
 <div class="horizontal">
-    <img src="https://image.hokubu.cn/i/2024/11/18/673ad8559098e.jpg">
-    <img src="https://image.hokubu.cn/i/2024/11/18/673ad855882aa.jpg">
-    <img src="https://image.hokubu.cn/i/2024/11/18/673ad855829f8.jpg">
+    <img src="https://image.jumern.com/cosplay/bailiu-001.jpg"/>
+    <img src="https://image.jumern.com/cosplay/bailiu-002.jpg"/>
+    <img src="https://image.jumern.com/cosplay/bailiu-003.jpg"/>
 </div>
 
 - 出镜：上官玖梦；
@@ -35,8 +35,8 @@ permalink: /gallery/bailiu/
 ## 白柳
 
 <div class="horizontal">
-    <img src="https://image.hokubu.cn/i/2024/11/18/673ad85674b92.jpg">
-    <img src="https://image.hokubu.cn/i/2024/11/18/673ad856ca64f.jpg">
+    <img src="https://image.jumern.com/cosplay/bailiu-004.jpg"/>
+    <img src="https://image.jumern.com/cosplay/bailiu-005.jpg"/>
 </div>
 
 - 出镜：上官玖梦；
