@@ -16,7 +16,8 @@ permalink: /introduction/
   <img src="https://image.jumern.com/sundries/avatar.jpg"/>
 </div>
 
->**玖重峰峦叠翠微，梦游仙境忘归途。**
+> **上岩独倚望天涯，官槐叶落秋声寒。**
+**玖重峰峦叠翠微，梦游仙境忘归途。**
 
 ---
 
