@@ -18,7 +18,7 @@ permalink: /gallery/zhongli/
 ## 天动万象
 
 <div class="fullsize">
-    <img src="https://image.hokubu.cn/i/2024/11/18/673aea0132545.jpg" alt="zhongli-tian_dong_wan_xiang.jpg" title="zhongli-tian_dong_wan_xiang.jpg" />
+    <img src="https://image.jumern.com/cosplay/zhongli-tian_dong_wan_xiang.jpg" />
 </div>
 
 - 出镜：上官玖梦；
@@ -30,13 +30,13 @@ permalink: /gallery/zhongli/
 ## 经典皮肤
 
 <div class="horizontal">
-    <img src="https://image.hokubu.cn/i/2024/11/18/673aea115efc3.jpg" alt="zhongli-001.jpg" title="zhongli-001.jpg" />
-    <img src="https://image.hokubu.cn/i/2024/11/18/673aea12b7eef.jpg" alt="zhongli-002.jpg" title="zhongli-002.jpg" />
-    <img src="https://image.hokubu.cn/i/2024/11/18/673aea140908a.jpg" alt="zhongli-003.jpg" title="zhongli-003.jpg" />
-    <img src="https://image.hokubu.cn/i/2024/11/18/673aea159bc88.jpg" alt="zhongli-004.jpg" title="zhongli-004.jpg" />
-    <img src="https://image.hokubu.cn/i/2024/11/18/673aea171dd91.jpg" alt="zhongli-005.jpg" title="zhongli-005.jpg" />
-    <img src="https://image.hokubu.cn/i/2024/11/18/673aea18cbcc0.jpg" alt="zhongli-006.jpg" title="zhongli-006.jpg" />
-    <img src="https://image.hokubu.cn/i/2024/11/18/673aea19f2c69.jpg" alt="zhongli-007.jpg" title="zhongli-007.jpg" />
+    <img src="https://image.jumern.com/cosplay/zhongli-001.jpg" />
+    <img src="https://image.jumern.com/cosplay/zhongli-002.jpg" />
+    <img src="https://image.jumern.com/cosplay/zhongli-003.jpg" />
+    <img src="https://image.jumern.com/cosplay/zhongli-004.jpg" />
+    <img src="https://image.jumern.com/cosplay/zhongli-005.jpg" />
+    <img src="https://image.jumern.com/cosplay/zhongli-006.jpg" />
+    <img src="https://image.jumern.com/cosplay/zhongli-007.jpg" />
 </div>
 
 - 出镜：上官玖梦；
