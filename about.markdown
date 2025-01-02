@@ -75,6 +75,8 @@ permalink: /about/
     - [陆光](https://mzh.moegirl.org.cn/%E9%99%86%E5%85%89)
 - [《原神》](https://mzh.moegirl.org.cn/%E5%8E%9F%E7%A5%9E)
     - [钟离](https://mzh.moegirl.org.cn/%E9%92%9F%E7%A6%BB)
+- [《绝区零》](https://mzh.moegirl.org.cn/%E7%BB%9D%E5%8C%BA%E9%9B%B6)
+    - [浅羽悠真](https://mzh.moegirl.org.cn/%E6%B5%85%E7%BE%BD%E6%82%A0%E7%9C%9F)
 - [《崩坏：星穹铁道》](https://mzh.moegirl.org.cn/%E5%B4%A9%E5%9D%8F%EF%BC%9A%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93)
     - [砂金](https://mzh.moegirl.org.cn/%E7%A0%82%E9%87%91)
 
