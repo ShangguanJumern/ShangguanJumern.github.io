@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 武装侦探社时期
+title: 武装侦探社
 permalink: /gallery/dazai_osamu/detective/
 ---
 

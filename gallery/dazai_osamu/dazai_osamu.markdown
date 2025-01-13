@@ -13,12 +13,9 @@ permalink: /gallery/dazai_osamu/
 
 ## 目录
 
-1. **黑之时代**
-[点我跳转→](./mafia)
-2. **BEAST首领**
-[点我跳转→](./beast)
-3. **武装侦探社时期**
-[点我跳转→](./detective)
+1. **黑之时代** [`点我跳转→`](./mafia)
+2. **BEAST首领** [`点我跳转→`](./beast)
+3. **武装侦探社** [`点我跳转→`](./detective)
 
 ---
 
