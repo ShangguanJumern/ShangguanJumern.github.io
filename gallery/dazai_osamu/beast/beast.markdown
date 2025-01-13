@@ -16,15 +16,14 @@ permalink: /gallery/dazai_osamu/beast/
 [**返回首页**](https://www.jumern.com/)
 
 ---
-<div class="horizontal">
-    <img src="https://image.jumern.com/cosplay/dazai_osamu-012.jpg"/>
-    <img src="https://image.jumern.com/cosplay/dazai_osamu-011.jpg"/>
-</div>
 
 <div class="vertical">
-    <img src="https://image.jumern.com/cosplay/dazai_osamu-010.jpg"/>
-    <img src="https://image.jumern.com/cosplay/dazai_osamu-009.jpg"/>
     <img src="https://image.jumern.com/cosplay/dazai_osamu-013.jpg"/>
+    <img src="https://image.jumern.com/cosplay/dazai_osamu-009.jpg"/>
+</div>
+
+<div class="fullsize">
+    <img src="https://image.jumern.com/cosplay/dazai_osamu-011.jpg"/>
 </div>
 
 - 出镜：上官玖梦；
