@@ -5,7 +5,7 @@ permalink: /gallery/heiwajima_shizuo/
 ---
 
 <haed>
-    <link rel="stylesheet" href="../../css/gallery.css">
+    <link rel="stylesheet" href="https://www.jumern.com/css/gallery.css">
 </haed>
 
 # 《无头骑士异闻录》

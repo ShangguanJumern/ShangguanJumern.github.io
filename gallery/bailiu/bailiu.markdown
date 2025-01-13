@@ -5,7 +5,7 @@ permalink: /gallery/bailiu/
 ---
 
 <haed>
-    <link rel="stylesheet" href="../../css/gallery.css">
+    <link rel="stylesheet" href="https://www.jumern.com/css/gallery.css">
 </haed>
 
 # 《我在惊悚游戏里封神（无限）》

@@ -5,7 +5,7 @@ permalink: /gallery/gojo_satoru/
 ---
 
 <haed>
-    <link rel="stylesheet" href="../../css/gallery.css">
+    <link rel="stylesheet" href="https://www.jumern.com/css/gallery.css">
 </haed>
 
 # 《咒术回战》
