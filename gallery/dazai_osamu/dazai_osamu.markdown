@@ -15,7 +15,7 @@ permalink: /gallery/dazai_osamu/
 
 1. **黑之时代**
 [点我跳转→](./mafia)
-2. **Beast线首领**
+2. **BEAST首领**
 [点我跳转→](./qiaoling)
 3. **武装侦探社时期**
 [点我跳转→](./detective)
