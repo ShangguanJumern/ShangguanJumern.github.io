@@ -28,14 +28,11 @@
     justify-content: space-between;
     gap: 20px;
     padding: 10px;
-    border: 1px solid red;
 }
 
 .gallery-item {
     flex: 1 1 calc(33.33% - 20px);
     min-width: 200px;
-    border: 1px solid blue;
-    background: rgba(0,0,0,0.05);
     margin: 10px;
     box-sizing: border-box;
 }
@@ -54,13 +51,21 @@
 
 /* 调整媒体查询断点 */
 @media (max-width: 1024px) {
-    .gallery-item {
-        flex: 1 1 calc(50% - 20px); /* 平板设备双列显示 */
+    /* 平板设备 */
+    .gallery-item.horizontal-img {
+        flex: 1 1 calc(50% - 20px); /* 横向图片双列 */
+    }
+    .gallery-item.vertical-img {
+        flex: 1 1 calc(33.33% - 20px); /* 纵向图片三列 */
     }
 }
 
 @media (max-width: 640px) {
-    .gallery-item {
-        flex: 1 1 100%; /* 手机设备单列显示 */
+    /* 手机设备 */
+    .gallery-item.horizontal-img {
+        flex: 1 1 100%; /* 横向图片单列 */
+    }
+    .gallery-item.vertical-img {
+        flex: 1 1 calc(50% - 20px); /* 纵向图片双列 */
     }
 }
