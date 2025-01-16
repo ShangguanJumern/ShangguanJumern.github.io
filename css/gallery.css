@@ -7,13 +7,6 @@
     padding: 20px;
 }
 
-/* 竖向图片容器 */
-.gallery-item.portrait {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
-}
-
 /* 竖向图片样式 */
 .gallery-item.portrait img {
     width: 100%;
