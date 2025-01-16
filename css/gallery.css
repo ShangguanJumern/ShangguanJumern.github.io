@@ -20,17 +20,7 @@
 
 /* 竖向图片布局 */
 .gallery-item.portrait {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
-    width: 100%;
-}
-
-/* 竖向图片子元素 */
-.gallery-item.portrait > div {
-    width: 100%;
-    position: relative;
-    overflow: hidden;
+    grid-column: span 1;
 }
 
 /* 图片样式 */
