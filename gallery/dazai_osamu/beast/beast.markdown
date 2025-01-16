@@ -17,13 +17,11 @@ permalink: /gallery/dazai_osamu/beast/
 
 ---
 
-<div class="fullsize">
-    <picture>
-        <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.avif" type="image/avif">
-        <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.webp" type="image/webp">
-        <img src="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.jpg" alt="dazai_osamu-011.jpg" loading="lazy">
-    </picture>
-</div>
+<picture>
+    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.avif" type="image/avif">
+    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.webp" type="image/webp">
+    <img src="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.jpg" alt="dazai_osamu-011.jpg" loading="lazy">
+</picture>
 
 <div class="vertical">
     <div class="gallery-item">
