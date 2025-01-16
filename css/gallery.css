@@ -22,6 +22,12 @@
     margin: 10px; /* 图片之间的间隔 */
 }
 
+.vertical {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
 .vertical img {
     max-width: calc(33.33% - 20px); /* 确保每行三张图片，留出间隔 */
     height: auto; /* 保持图片原始比例 */

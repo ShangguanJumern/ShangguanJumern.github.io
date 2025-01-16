@@ -26,7 +26,6 @@ permalink: /gallery/dazai_osamu/beast/
 </div>
 
 <div class="vertical">
-    <div>
     <picture>
         <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-013.avif" type="image/avif">
         <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-013.webp" type="image/webp">
@@ -37,7 +36,6 @@ permalink: /gallery/dazai_osamu/beast/
         <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-009.webp" type="image/webp">
         <img src="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-009.jpg" alt="dazai_osamu-009.jpg" loading="lazy">
     </picture>
-    </div>
 </div>
 
 - 出镜：上官玖梦；
