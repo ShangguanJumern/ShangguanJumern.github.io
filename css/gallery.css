@@ -14,12 +14,12 @@
 
 /* 横向图片占一列 */
 .gallery-item.landscape {
-    grid-column: span 1;
+    grid-column: span 2;
 }
 
 /* 竖向图片占两列 */
 .gallery-item.portrait {
-    grid-column: span 2;
+    grid-column: span 1;
 }
 
 /* 图片样式 */
