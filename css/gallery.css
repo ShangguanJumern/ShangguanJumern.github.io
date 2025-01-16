@@ -1,58 +1,60 @@
-.fullsize {
-    display: flex;
-    flex-wrap: wrap; /* 允许图片换行 */
-    justify-content: space-around; /* 图片之间的间距 */
-}
-
-.fullsize img {
-    max-width: calc(100% - 20px); /* 确保每行两张图片，留出间隔 */
-    height: auto; /* 保持图片原始比例 */
-    margin: 20px; /* 图片之间的间隔 */
-}
-
-.horizontal {
-    display: flex;
-    flex-wrap: wrap; /* 允许图片换行 */
-    justify-content: space-around; /* 图片之间的间距 */
-}
-
-.horizontal img {
-    max-width: calc(50% - 20px); /* 确保每行两张图片，留出间隔 */
-    height: auto; /* 保持图片原始比例 */
-    margin: 10px; /* 图片之间的间隔 */
-}
-
-.vertical {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+/* 基础布局 */
+.gallery-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
-    padding: 10px;
+    padding: 20px;
 }
 
-/* 默认三列布局 */
+/* 图片容器 */
 .gallery-item {
-    flex: 1 1 calc(33.33% - 20px);
-    min-width: 200px;
-    margin: 10px;
-    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
 }
 
-.vertical picture {
-    display: block;
+/* 横向图片占两列 */
+.gallery-item.landscape {
+    grid-column: span 2;
+}
+
+/* 竖向图片占一列 */
+.gallery-item.portrait {
+    grid-column: span 1;
+}
+
+/* 图片样式 */
+.gallery-item img {
     width: 100%;
     height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
 }
 
-.vertical img {
-    width: 100%;
-    height: auto;
-    display: block;
-}
-
-/* 手机端双列布局 */
-@media (max-width: 420px) {
-    .gallery-item {
-        flex: 1 1 calc(50% - 20px);
+/* 响应式布局 */
+@media (max-width: 1024px) {
+    .gallery-container {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     }
+}
+
+@media (max-width: 768px) {
+    .gallery-container {
+        grid-template-columns: 1fr;
+    }
+    
+    .gallery-item.landscape {
+        grid-column: span 1;
+    }
+    
+    .gallery-item img {
+        max-height: 300px;
+    }
+}
+
+
+/* 图片hover效果 */
+.gallery-item:hover img {
+    transform: scale(1.02);
+    transition: transform 0.3s ease;
 }

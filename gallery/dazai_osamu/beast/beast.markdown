@@ -17,21 +17,22 @@ permalink: /gallery/dazai_osamu/beast/
 
 ---
 
-<picture>
-    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.avif" type="image/avif">
-    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.webp" type="image/webp">
-    <img src="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.jpg" alt="dazai_osamu-011.jpg" loading="lazy">
-</picture>
-
-<div class="vertical">
-    <div class="gallery-item">
+<div class="gallery-container">
+    <div class="gallery-item landscape">
+        <picture>
+            <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.avif" type="image/avif">
+            <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.webp" type="image/webp">
+            <img src="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.jpg" alt="dazai_osamu-011.jpg" loading="lazy">
+        </picture>
+    </div>
+    <div class="gallery-item portrait">
         <picture>
             <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-013.avif" type="image/avif">
             <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-013.webp" type="image/webp">
             <img src="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-013.jpg" alt="dazai_osamu-013.jpg" loading="lazy">
         </picture>
     </div>
-    <div class="gallery-item">
+    <div class="gallery-item portrait">
         <picture>
             <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-009.avif" type="image/avif">
             <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-009.webp" type="image/webp">
