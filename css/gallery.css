@@ -2,8 +2,16 @@
 .gallery-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-auto-rows: minmax(200px, auto);
     gap: 20px;
     padding: 20px;
+}
+
+/* 竖向图片样式 */
+.gallery-item.portrait img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 /* 图片容器 */
@@ -17,19 +25,9 @@
     grid-column: span 2;
 }
 
-/* 竖向图片使用grid布局 */
+/* 竖向图片占两列 */
 .gallery-item.portrait {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
-    width: 100%;
-}
-
-/* 竖向图片子元素 */
-.gallery-item.portrait > div {
-    width: 100%;
-    position: relative;
-    overflow: hidden;
+    grid-column: span 1;
 }
 
 /* 图片样式 */
