@@ -34,8 +34,8 @@
     margin: 10px; /* 图片之间的间隔 */
 }
 
-/* 当屏幕宽度小于600px时 */
-@media (max-width: 600px) {
+/* 当屏幕宽度小于768px时 */
+@media (max-width: 768px) {
     .vertical img {
         max-width: calc(50% - 20px); /* 双列显示，留出间隔 */
     }
