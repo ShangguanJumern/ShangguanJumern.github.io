@@ -44,7 +44,7 @@
 /* 响应式布局 */
 @media (max-width: 768px) {
     .gallery-container {
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(50%, 1fr));
     }
     
     .gallery-item.portrait {
@@ -62,7 +62,7 @@
     }
     
     .gallery-item.landscape img {
-        max-height: 300px;
+        max-height: none;
         object-fit: cover;
     }
     
