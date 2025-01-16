@@ -30,6 +30,7 @@
     padding: 10px;
 }
 
+/* 默认三列布局 */
 .gallery-item {
     flex: 1 1 calc(33.33% - 20px);
     min-width: 200px;
@@ -49,23 +50,9 @@
     display: block;
 }
 
-/* 调整媒体查询断点 */
-@media (max-width: 720px) {
-    /* 平板设备 */
-    .gallery-item.horizontal-img {
-        flex: 1 1 calc(50% - 20px); /* 横向图片双列 */
-    }
-    .gallery-item.vertical-img {
-        flex: 1 1 calc(33.33% - 20px); /* 纵向图片三列 */
-    }
-}
-
-@media (max-width: 450px) {
-    /* 手机设备 */
-    .gallery-item.horizontal-img {
-        flex: 1 1 100%; /* 横向图片单列 */
-    }
-    .gallery-item.vertical-img {
-        flex: 1 1 calc(50% - 20px); /* 纵向图片双列 */
+/* 手机端双列布局 */
+@media (max-width: 420px) {
+    .gallery-item {
+        flex: 1 1 calc(50% - 20px);
     }
 }
