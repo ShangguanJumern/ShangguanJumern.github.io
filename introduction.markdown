@@ -5,7 +5,7 @@ permalink: /introduction/
 ---
 
 <haed>
-    <link rel="stylesheet" href="../../css/gallery.css">
+    <link rel="stylesheet" href="/css/gallery.css">
 </haed>
 
 # 上官玖梦简介
@@ -13,7 +13,7 @@ permalink: /introduction/
 ---
 
 <div class="vertical">
-  <img src="https://image.jumern.com/sundries/avatar.jpg"/>
+  <img src="https://image.jumern.com/sundries/avatar.webp"/>
 </div>
 
 > **上岩独倚望天涯，官槐叶落秋声寒。**
@@ -46,8 +46,8 @@ permalink: /introduction/
 - **QQ：** 2099212720
 
 <div class="vertical">
-  <img src="https://image.jumern.com/sundries/WeChat-QRCode.png"/>
-  <img src="https://image.jumern.com/sundries/QQ-QRCode.jpg"/>
+  <img src="https://image.jumern.com/sundries/WeChat-QRCode.webp"/>
+  <img src="https://image.jumern.com/sundries/QQ-QRCode.webp"/>
 </div>
 
 [跳转至bilibili主页](https://space.bilibili.com/353199743)
