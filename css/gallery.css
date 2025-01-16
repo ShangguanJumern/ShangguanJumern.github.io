@@ -12,14 +12,14 @@
     overflow: hidden;
 }
 
-/* 横向图片占两列 */
+/* 横向图片占一列 */
 .gallery-item.landscape {
-    grid-column: span 2;
+    grid-column: span 1;
 }
 
-/* 竖向图片占一列 */
+/* 竖向图片占两列 */
 .gallery-item.portrait {
-    grid-column: span 1;
+    grid-column: span 2;
 }
 
 /* 图片样式 */
@@ -31,13 +31,13 @@
 }
 
 /* 响应式布局 */
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
     .gallery-container {
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 320px) {
     .gallery-container {
         grid-template-columns: 1fr;
     }
@@ -46,8 +46,14 @@
         grid-column: span 1;
     }
     
-    .gallery-item img {
+    .gallery-item.landscape img {
+        max-height: 300px;
+        object-fit: cover;
+    }
+    
+    .gallery-item.portrait img {
         max-height: none;
+        object-fit: contain;
     }
 }
 
