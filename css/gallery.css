@@ -50,7 +50,7 @@
 }
 
 /* 调整媒体查询断点 */
-@media (max-width: 1024px) {
+@media (max-width: 720px) {
     /* 平板设备 */
     .gallery-item.horizontal-img {
         flex: 1 1 calc(50% - 20px); /* 横向图片双列 */
@@ -60,7 +60,7 @@
     }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 450px) {
     /* 手机设备 */
     .gallery-item.horizontal-img {
         flex: 1 1 100%; /* 横向图片单列 */
