@@ -17,17 +17,19 @@
     grid-column: span 2;
 }
 
-/* 竖向图片使用flex布局 */
+/* 竖向图片使用grid布局 */
 .gallery-item.portrait {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     gap: 20px;
+    width: 100%;
 }
 
-/* 竖向图片子元素平分宽度 */
+/* 竖向图片子元素 */
 .gallery-item.portrait > div {
-    flex: 1;
-    min-width: calc(50% - 10px);
+    width: 100%;
+    position: relative;
+    overflow: hidden;
 }
 
 /* 图片样式 */
