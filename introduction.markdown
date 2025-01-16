@@ -5,7 +5,6 @@ permalink: /introduction/
 ---
 
 <haed>
-  <link rel="icon" href="https://image.jumern.com/sundries/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/css/gallery.css">
 </haed>
 

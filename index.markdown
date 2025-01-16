@@ -3,10 +3,6 @@ layout: home
 title: 首页
 ---
 
-<haed>
-  <link rel="icon" href="https://image.jumern.com/sundries/favicon.ico" type="image/x-icon">
-</haed>
-
 # 上官玖梦的博客
 
 ---
