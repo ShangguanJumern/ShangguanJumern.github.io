@@ -5,7 +5,7 @@
 }
 
 .fullsize img {
-    max-width: calc(100% - 20px); /* 确保每行两张图片，留出间隔 */
+    max-width: calc(98% - 20px); /* 确保每行两张图片，留出间隔 */
     height: auto; /* 保持图片原始比例 */
     margin: 20px; /* 图片之间的间隔 */
 }
@@ -17,7 +17,7 @@
 }
 
 .horizontal img {
-    max-width: calc(50% - 20px); /* 确保每行两张图片，留出间隔 */
+    max-width: calc(48% - 20px); /* 确保每行两张图片，留出间隔 */
     height: auto; /* 保持图片原始比例 */
     margin: 10px; /* 图片之间的间隔 */
 }
@@ -37,9 +37,9 @@
 /* 当屏幕宽度小于768px时 */
 @media (max-width: 768px) {
     .vertical img {
-        max-width: calc(50% - 20px); /* 双列显示，留出间隔 */
+        max-width: calc(48% - 20px); /* 双列显示，留出间隔 */
     }
     .horizontal img {
-        max-width: calc(100% - 20px); /* 单列显示，留出间隔 */
+        max-width: calc(98% - 20px); /* 单列显示，留出间隔 */
     }
 }
