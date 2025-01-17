@@ -1,7 +1,7 @@
 /* 基础布局 */
 .gallery-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1.2fr));
     grid-auto-rows: minmax(200px, auto);
     gap: 20px;
     padding: 20px;
