@@ -42,6 +42,7 @@
 
 /* 目录文字容器 */
 .directory-text {
+    color: black;
     font-size: 1em;
     padding: 10px;
     box-sizing: border-box;
