@@ -28,9 +28,15 @@
     overflow: hidden;
 }
 
-/* 横向图片占两列 */
+/* 横向图片占三列 */
 .gallery-item.landscape {
     grid-column: span 3;
+    object-fit: contain;
+}
+
+/* 方形图片占两列 */
+.gallery-item.square {
+    grid-column: span 2;
     object-fit: contain;
 }
 
