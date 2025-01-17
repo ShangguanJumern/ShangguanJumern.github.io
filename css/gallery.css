@@ -2,24 +2,24 @@
 .gallery-container {
     display: grid;
     place-items: center;
-    grid-auto-rows: minmax(200px, auto);
+    grid-auto-rows: minmax(120px, auto);
     gap: 20px;
     padding: 20px;
 }
 
 /* 全尺寸图片容器 */
 .gallery-container.fullsize {
-    grid-template-columns: repeat(auto-fit, minmax(min(90%), 1fr));
+    grid-template-columns: 1fr;
 }
 
 /* 横向图片容器 */
 .gallery-container.landscape {
-    grid-template-columns: repeat(auto-fit, minmax(min(90% / 6), 1fr));
+    grid-template-columns: repeat(6, 1fr);
 }
 
 /* 竖向图片容器 */
 .gallery-container.portrait {
-    grid-template-columns: repeat(auto-fit, minmax(min(90% / 3), 1fr));
+    grid-template-columns: repeat(3, 1fr);
 }
 
 /* 基础图片 */
@@ -51,11 +51,11 @@
 /* 响应式布局 */
 @media (max-width: 720px) {
     .gallery-container.landscape {
-        grid-template-columns: repeat(auto-fit, minmax(min(90% / 4), 1fr));
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .gallery-container.portrait {
-        grid-template-columns: repeat(auto-fit, minmax(min(90% / 2), 1fr));
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .gallery-item.landscape {
