@@ -1,7 +1,7 @@
 /* 基础布局 */
 .gallery-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     grid-auto-rows: minmax(200px, auto);
     gap: 20px;
     padding: 20px;
@@ -16,11 +16,13 @@
 /* 横向图片占两列 */
 .gallery-item.landscape {
     grid-column: span 2;
+    object-fit: contain;
 }
 
 /* 竖向图片占一列 */
 .gallery-item.portrait {
     grid-column: span 1;
+    object-fit: contain;
 }
 
 /* 图片样式 */
@@ -32,39 +34,21 @@
 }
 
 /* 响应式布局 */
-@media (max-width: 768px) {
+@media (max-width: 960px) {
     .gallery-container {
-        grid-template-columns: repeat(auto-fit, 1fr);
-    }
-    
-    .gallery-item.portrait {
-        grid-column: span 1;
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 720px) {
     .gallery-container {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     }
-    
-    .gallery-item.landscape {
-        grid-column: span 1;
-    }
-    
-    .gallery-item.landscape img {
-        max-height: none;
-        object-fit: cover;
-    }
-    
-    .gallery-item.portrait img {
-        max-height: none;
-        object-fit: contain;
-    }
-    
-    /* 修改竖向图片的布局 */
-    .gallery-item.portrait {
-        grid-column: span 1; /* 使竖向图片也只占一列 */
+}
+
+@media (max-width: 480px) {
+    .gallery-container {
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     }
 }
 
