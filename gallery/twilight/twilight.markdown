@@ -5,27 +5,69 @@ permalink: /gallery/twilight/
 ---
 
 <haed>
-    <link rel="stylesheet" href="https://www.jumern.com/css/gallery.css">
+    <link rel="stylesheet" href="/css/gallery.css">
 </haed>
 
 
 # 《间谍过家家》
 
 [回到图库](../)
-[**返回首页**](https://www.jumern.com/)
+[**返回首页**](/)
 
 ---
 
 ## 经典皮肤
 
-<div class="horizontal">
-    <img src="https://image.jumern.com/cosplay/twilight-001.jpg" />
-    <img src="https://image.jumern.com/cosplay/twilight-002.jpg" />
-    <img src="https://image.jumern.com/cosplay/twilight-003.jpg" />
-    <img src="https://image.jumern.com/cosplay/twilight-004.jpg" />
-    <img src="https://image.jumern.com/cosplay/twilight-005.jpg" />
-    <img src="https://image.jumern.com/cosplay/twilight-006.jpg" />
-    <img src="https://image.jumern.com/cosplay/twilight-007.jpg" />
+<div class="gallery-container landscape">
+    <div class="gallery-item landscape">
+        <picture>
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-001.avif" type="image/avif">
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-001.webp" type="image/webp">
+            <img src="https://image.jumern.com/cosplay/twilight/classic/twilight-001.jpg" alt="twilight-001.jpg" loading="lazy">
+        </picture>
+    </div>
+    <div class="gallery-item landscape">
+        <picture>
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-002.avif" type="image/avif">
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-002.webp" type="image/webp">
+            <img src="https://image.jumern.com/cosplay/twilight/classic/twilight-002.jpg" alt="twilight-002.jpg" loading="lazy">
+        </picture>
+    </div>
+    <div class="gallery-item landscape">
+        <picture>
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-003.avif" type="image/avif">
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-003.webp" type="image/webp">
+            <img src="https://image.jumern.com/cosplay/twilight/classic/twilight-003.jpg" alt="twilight-003.jpg" loading="lazy">
+        </picture>
+    </div>
+    <div class="gallery-item landscape">
+        <picture>
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-004.avif" type="image/avif">
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-004.webp" type="image/webp">
+            <img src="https://image.jumern.com/cosplay/twilight/classic/twilight-004.jpg" alt="twilight-004.jpg" loading="lazy">
+        </picture>
+    </div>
+    <div class="gallery-item landscape">
+        <picture>
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-005.avif" type="image/avif">
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-005.webp" type="image/webp">
+            <img src="https://image.jumern.com/cosplay/twilight/classic/twilight-005.jpg" alt="twilight-005.jpg" loading="lazy">
+        </picture>
+    </div>
+    <div class="gallery-item landscape">
+        <picture>
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-006.avif" type="image/avif">
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-006.webp" type="image/webp">
+            <img src="https://image.jumern.com/cosplay/twilight/classic/twilight-006.jpg" alt="twilight-006.jpg" loading="lazy">
+        </picture>
+    </div>
+    <div class="gallery-item landscape">
+        <picture>
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-007.avif" type="image/avif">
+            <source srcset="https://image.jumern.com/cosplay/twilight/classic/twilight-007.webp" type="image/webp">
+            <img src="https://image.jumern.com/cosplay/twilight/classic/twilight-007.jpg" alt="twilight-007.jpg" loading="lazy">
+        </picture>
+    </div>
 </div>
 
 - 出镜：上官玖梦；
@@ -35,4 +77,4 @@ permalink: /gallery/twilight/
 ---
 
 [回到图库](../)
-[**返回首页**](https://www.jumern.com/)
+[**返回首页**](/)
