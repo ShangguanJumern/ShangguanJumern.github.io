@@ -19,37 +19,46 @@ permalink: /gallery/dazai_osamu/
 
 <div class="directory-container">
     <div class="directory-card portrait">
-        <h2>黑之时代</h2>
-        <a href="./mafia">点我跳转→</a>
-        <div class="directory-item portrait">
-            <picture>
-                <source srcset="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-mafia-showcase.avif" type="image/avif">
-                <source srcset="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-mafia-showcase.webp" type="image/webp">
-                <img src="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-mafia-showcase.jpg" alt="dazai_osamu-mafia-showcase.jpg" loading="lazy">
-            </picture>
-        </div>
-    </div>
-    <div class="directory-card portrait">
-        <h2>BEAST首领</h2>
-        <a href="./beast">点我跳转→</a>
-        <div class="directory-item portrait">
-            <picture>
-                <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.avif" type="image/avif">
-                <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.webp" type="image/webp">
-                <img src="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.jpg" alt="dazai_osamu-011.jpg" loading="lazy">
-            </picture>
-        </div>
+        <a href="./beast">
+            <div class="directory-text">
+                <strong>BEAST首领</strong>
+            </div>
+            <div class="directory-item portrait">
+                <picture>
+                    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.avif" type="image/avif">
+                    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.webp" type="image/webp">
+                    <img src="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.jpg" alt="dazai_osamu-011.jpg" loading="lazy">
+                </picture>
+            </div>
+        </a>
     </div>
     <div class="directory-card landscape">
-        <h2>武装侦探社</h2>
-        <a href="./detective">点我跳转→</a>
-        <div class="directory-item">
-            <picture>
-                <source srcset="https://image.jumern.com/cosplay/dazai_osamu/detective/dazai_osamu-006.avif" type="image/avif">
-                <source srcset="https://image.jumern.com/cosplay/dazai_osamu/detective/dazai_osamu-006.webp" type="image/webp">
-                <img src="https://image.jumern.com/cosplay/dazai_osamu/detective/dazai_osamu-006.jpg" alt="dazai_osamu-006.jpg" loading="lazy">
-            </picture>
-        </div>
+        <a href="./mafia">
+            <div class="directory-text">
+                <strong>黑之时代</strong>
+            </div>
+            <div class="directory-item landscape">
+                <picture>
+                    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-001.avif" type="image/avif">
+                    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-001.webp" type="image/webp">
+                    <img src="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-001.jpg" alt="dazai_osamu-001.jpg" loading="lazy">
+                </picture>
+            </div>
+        </a>
+    </div>
+    <div class="directory-card landscape">
+        <a href="./detective">
+            <div class="directory-text">
+                <strong>武装侦探社</strong>
+            </div>
+            <div class="directory-item">
+                <picture>
+                    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/detective/dazai_osamu-006.avif" type="image/avif">
+                    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/detective/dazai_osamu-006.webp" type="image/webp">
+                    <img src="https://image.jumern.com/cosplay/dazai_osamu/detective/dazai_osamu-006.jpg" alt="dazai_osamu-006.jpg" loading="lazy">
+                </picture>
+            </div>
+        </a>
     </div>
 </div>
 
