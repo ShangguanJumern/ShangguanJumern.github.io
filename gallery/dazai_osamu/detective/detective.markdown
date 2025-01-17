@@ -13,7 +13,7 @@ permalink: /gallery/dazai_osamu/detective/
 ## 太宰治
 
 [回到上页](../)
-[**返回首页**](https://www.jumern.com/)
+[**返回首页**](/)
 
 ---
 
@@ -48,4 +48,4 @@ permalink: /gallery/dazai_osamu/detective/
 ---
 
 [回到上页](../)
-[**返回首页**](https://www.jumern.com/)
+[**返回首页**](/)
