@@ -17,7 +17,7 @@ permalink: /gallery/dazai_osamu/detective/
 
 ---
 
-<div class="gallery-container">
+<div class="gallery-container portrait">
     <div class="gallery-item portrait">
         <picture>
             <source srcset="https://image.jumern.com/cosplay/dazai_osamu/detective/dazai_osamu-008.avif" type="image/avif">

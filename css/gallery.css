@@ -1,5 +1,24 @@
 /* 基础布局 */
-.gallery-container {
+/* 全尺寸图片容器 */
+.gallery-container.fullsize {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(90%), 1fr));
+    grid-auto-rows: minmax(200px, auto);
+    gap: 20px;
+    padding: 20px;
+}
+
+/* 横向图片容器 */
+.gallery-container.landscape {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(90% / 6), 1fr));
+    grid-auto-rows: minmax(200px, auto);
+    gap: 20px;
+    padding: 20px;
+}
+
+/* 竖向图片容器 */
+.gallery-container.portrait {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(90% / 3), 1fr));
     grid-auto-rows: minmax(200px, auto);
@@ -7,7 +26,7 @@
     padding: 20px;
 }
 
-/* 图片容器 */
+/* 基础图片 */
 .gallery-item {
     position: relative;
     overflow: hidden;
@@ -35,7 +54,11 @@
 
 /* 响应式布局 */
 @media (max-width: 720px) {
-    .gallery-container {
+    .gallery-container.landscape {
+        grid-template-columns: repeat(auto-fit, minmax(min(90% / 4), 1fr));
+    }
+
+    .gallery-container.portrait {
         grid-template-columns: repeat(auto-fit, minmax(min(90% / 2), 1fr));
     }
 

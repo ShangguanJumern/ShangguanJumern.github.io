@@ -17,8 +17,8 @@ permalink: /gallery/dazai_osamu/mafia/
 
 ---
 
-<div class="gallery-container">
-    <div class="gallery-item landscape">
+<div class="gallery-container fullsize">
+    <div class="gallery-item">
         <picture>
             <source srcset="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-mafia-showcase.avif" type="image/avif">
             <source srcset="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-mafia-showcase.webp" type="image/webp">
@@ -33,7 +33,7 @@ permalink: /gallery/dazai_osamu/mafia/
 
 ---
 
-<div class="gallery-container">
+<div class="gallery-container portrait">
     <div class="gallery-item portrait">
         <picture>
             <source srcset="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-001.avif" type="image/avif">

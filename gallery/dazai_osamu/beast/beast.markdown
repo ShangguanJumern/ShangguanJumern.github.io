@@ -17,7 +17,7 @@ permalink: /gallery/dazai_osamu/beast/
 
 ---
 
-<div class="gallery-container">
+<div class="gallery-container portrait">
     <div class="gallery-item landscape">
         <picture>
             <source srcset="https://image.jumern.com/cosplay/dazai_osamu/beast/dazai_osamu-011.avif" type="image/avif">
