@@ -5,7 +5,7 @@ permalink: /gallery/dazai_osamu/beast/
 ---
 
 <haed>
-    <link rel="stylesheet" href="https://www.jumern.com/css/gallery.css">
+    <link rel="stylesheet" href="/css/gallery.css">
 </haed>
 
 # 《文豪野犬》
