@@ -25,6 +25,9 @@
     place-items: left;
     grid-auto-rows: minmax(60px, auto);
     grid-template-columns: 1fr;
+    border: 2px solid #add8e6;
+    border-radius: 8px;
+    background-color: #f0f8ff;
 }
 
 /* 目录横向图片占两列 */
@@ -35,6 +38,18 @@
 /* 目录竖向图片占一列 */
 .directory-card.landscape {
     grid-column: span 1;
+}
+
+/* 目录文字容器 */
+.directory-text {
+    font-size: 1em;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    max-height: 100%;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 /* 目录图片容器 */
@@ -113,7 +128,7 @@
 }
 
 /* 响应式布局 */
-@media (max-width: 720px) {
+@media (max-width: 700px) {
     .directory-container {
         grid-template-columns: repeat(2, 1fr);
     }
