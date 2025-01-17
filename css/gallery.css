@@ -1,10 +1,58 @@
-/* 基础布局 */
+/* 图库基础容器 */
 .gallery-container {
     display: grid;
     place-items: center;
     grid-auto-rows: minmax(120px, auto);
     gap: 20px;
     padding: 20px;
+}
+
+/* 目录基础容器 */
+.directory-container {
+    display: grid;
+    place-items: center;
+    grid-auto-rows: minmax(120px, auto);
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+/* 目录图文容器 */
+.directory-card {
+    display: grid;
+    position: relative;
+    overflow: hidden;
+    place-items: left;
+    grid-auto-rows: minmax(60px, auto);
+    grid-template-columns: 1fr;
+}
+
+/* 目录横向图片占两列 */
+.directory-card.portrait {
+    grid-column: span 2;
+}
+
+/* 目录竖向图片占一列 */
+.directory-card.landscape {
+    grid-column: span 1;
+}
+
+/* 目录图片容器 */
+.directory-item {
+    grid-column: span 1;
+    display: grid;
+    position: relative;
+    overflow: hidden;
+}
+
+/* 目录横向图片比例 */
+.directory-item.portrait {
+    aspect-ratio: 3 / 2;
+}
+
+/* 目录竖向图片比例 */
+.directory-item.landscape {
+    aspect-ratio: 2 / 3; 
 }
 
 /* 全尺寸图片容器 */
@@ -46,7 +94,17 @@
     object-fit: contain;
 }
 
-/* 图片样式 */
+/* 目录图片样式 */
+.directory-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+/* 图库图片样式 */
 .gallery-item img {
     width: 100%;
     height: auto;
@@ -56,6 +114,10 @@
 
 /* 响应式布局 */
 @media (max-width: 720px) {
+    .directory-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
     .gallery-container.landscape {
         grid-template-columns: repeat(2, 1fr);
     }
@@ -70,6 +132,11 @@
 }
 
 /* 图片hover效果 */
+.directory-item:hover img {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
 .gallery-item:hover img {
     transform: scale(1.05);
     transition: transform 0.3s ease;
