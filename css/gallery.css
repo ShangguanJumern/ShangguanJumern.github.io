@@ -1,7 +1,7 @@
 /* 基础布局 */
 .gallery-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     grid-auto-rows: minmax(200px, auto);
     gap: 20px;
     padding: 20px;
@@ -70,6 +70,6 @@
 
 /* 图片hover效果 */
 .gallery-item:hover img {
-    transform: scale(1.02);
+    transform: scale(1.05);
     transition: transform 0.3s ease;
 }
