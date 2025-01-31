@@ -145,6 +145,10 @@
     .gallery-item.landscape {
         grid-column: span 2;
     }
+
+    .gallery-item.square {
+        grid-column: span 1;
+    }
 }
 
 /* 图片hover效果 */
