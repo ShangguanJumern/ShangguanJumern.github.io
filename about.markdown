@@ -1,12 +1,10 @@
 ---
 layout: page
-title: 关于我
+title: 关于
 permalink: /about/
 ---
 
-# 关于上官玖梦
-
-## 本页目录 {#top}
+# 本页目录 {#top}
 1. [部分看过的作品](#seen-fiction)
 4. [属性区](#attribute)
 5. [部分玩过的游戏](#games)
@@ -16,7 +14,7 @@ permalink: /about/
 
 ---
 
-## 看过的作品： {#seen-fiction}
+# 看过的作品： {#seen-fiction}
 - [《文豪野犬》](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC)
 - [《我在惊悚游戏里封神（无限）》](https://www.jjwxc.net/onebook.php?novelid=4218910)
 - [《蓝色监狱》](https://mzh.moegirl.org.cn/%E8%93%9D%E8%89%B2%E7%9B%91%E7%8B%B1)
@@ -40,13 +38,13 @@ permalink: /about/
 
 ---
 
-## 属性区： {#attribute}
+# 属性区： {#attribute}
 
 ❗❗❗**上官玖梦的社交账号将不分组，请自避雷点**❗❗❗
 
 其内可能会出现以下的内容：
 
-### 我的推们：
+## 我的推们：
 - [《文豪野犬》](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC)
     - [太宰治](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC:%E5%A4%AA%E5%AE%B0%E6%B2%BB)
     - [中原中也](https://mzh.moegirl.org.cn/%E4%B8%AD%E5%8E%9F%E4%B8%AD%E4%B9%9F)
@@ -88,9 +86,9 @@ permalink: /about/
 
 ~~其实还有，我懒得写了（奇奇怪怪的隐属又增加了）~~
 
-### 目前在磕
+## 目前在磕
 
-#### CP
+### CP
 
 - [《文豪野犬》](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC) 太宰治/中原中也
 <!-- - [《蓝色监狱》](https://mzh.moegirl.org.cn/%E8%93%9D%E8%89%B2%E7%9B%91%E7%8B%B1) 凪诚士郎/御影玲王 -->
@@ -100,16 +98,16 @@ permalink: /about/
 
 不拆不逆
 
-#### 其他
+### 其他
 *包括但不限于：友情向、宿敌、组合、搭档等*
 
 - [《时光代理人》](https://mzh.moegirl.org.cn/%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA) 程小时 陆光 乔苓
 
-#### 老福特tag直达：
+### 老福特tag直达：
 - [太宰治/中原中也](https://www.lofter.com/tag/%E5%A4%AA%E4%B8%AD)
 <!-- - [凪诚士郎/御影玲王](https://www.lofter.com/tag/%E5%87%AA%E7%8E%B2) -->
 
-### 雷点
+## 雷点
 
 - 拒我推梦男/女
 - 跨世界观拉郎
@@ -119,7 +117,7 @@ permalink: /about/
 - 无故自来熟
 - 毫无自知之明
 
-### 补充
+## 补充
 
 若您触雷后经提醒后再次触雷将直接单删，不解释。
 
@@ -139,7 +137,7 @@ permalink: /about/
 
 ---
 
-## 玩过的游戏： {#games}
+# 玩过的游戏： {#games}
 - [我的世界](https://zh.minecraft.wiki/)
 - [原神](https://mzh.moegirl.org.cn/%E5%8E%9F%E7%A5%9E)
 - [崩坏：星穹铁道](https://mzh.moegirl.org.cn/%E5%B4%A9%E5%9D%8F%EF%BC%9A%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93)
@@ -151,7 +149,7 @@ permalink: /about/
 
 ---
 
-## 喜好： {#likes}
+# 喜好： {#likes}
 - 台球
 - 羽毛球
 - 乒乓球
@@ -164,7 +162,7 @@ permalink: /about/
 
 ---
 
-## 相关链接： {#links}
+# 相关链接： {#links}
 - [萌娘百科首页](https://mzh.moegirl.org.cn/)
 - [《原神》游戏官网](https://www.yuanshen.com/)
 - [《崩坏：星穹铁道》游戏官网](https://sr.mihoyo.com/)

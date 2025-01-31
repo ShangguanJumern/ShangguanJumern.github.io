@@ -16,7 +16,7 @@ permalink: /gallery/
 
 ⚠️禁止AI训练数据抓取
 
-# COS照图库目录
+# COS照目录
 
 <div class="directory-container">
     <div class="directory-card portrait">
