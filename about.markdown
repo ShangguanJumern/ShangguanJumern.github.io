@@ -88,14 +88,14 @@ permalink: /about/
 
 ## 目前在吃的饭： {#couple-pairings}
 - [《文豪野犬》](https://mzh.moegirl.org.cn/%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC)太宰治/中原中也
-- [《蓝色监狱》](https://mzh.moegirl.org.cn/%E8%93%9D%E8%89%B2%E7%9B%91%E7%8B%B1)凪诚士郎/御影玲王
+<!-- - [《蓝色监狱》](https://mzh.moegirl.org.cn/%E8%93%9D%E8%89%B2%E7%9B%91%E7%8B%B1)凪诚士郎/御影玲王 -->
 - [《刺客伍六七》](https://mzh.moegirl.org.cn/%E4%BC%8D%E5%85%AD%E4%B8%83)伍六七/梅花十三
 - [《名侦探柯南》](https://mzh.moegirl.org.cn/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97)工藤新一/毛利兰
 - [《魔术快斗》](https://mzh.moegirl.org.cn/%E9%AD%94%E6%9C%AF%E5%BF%AB%E6%96%97)黑羽快斗/中森青子
 
 ### 老福特tag直达：
 - [太宰治/中原中也](https://www.lofter.com/tag/%E5%A4%AA%E4%B8%AD)
-- [凪诚士郎/御影玲王](https://www.lofter.com/tag/%E5%87%AA%E7%8E%B2)
+<!-- - [凪诚士郎/御影玲王](https://www.lofter.com/tag/%E5%87%AA%E7%8E%B2) -->
 
 [回到目录](#top)
 
