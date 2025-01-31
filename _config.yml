@@ -1,54 +1,57 @@
-# Welcome to Jekyll!
+# 欢迎使用 Jekyll！
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+# 此配置文件用于影响整个博客的设置，
+# 这些值通常只需设置一次，之后很少需要编辑。
+# 如果您发现自己经常编辑此文件，
+# 请考虑使用 Jekyll 的数据文件功能来处理需要频繁更新的数据。
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# 由于技术原因，当您使用 'bundle exec jekyll serve' 时，
+# 此文件不会自动重新加载。如果更改此文件，请重启服务器进程。
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# 如果您需要 YAML 语法帮助，这里有一些快速参考：
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# 网站设置
+# 这些用于个性化您的新网站。如果您查看 HTML 文件，
+# 您会看到它们通过 {{ site.title }}、{{ site.email }} 等方式被访问。
+# 您可以创建任何自定义变量，它们将通过 {{ site.myvariable }} 
+# 在模板中访问。
 
 title: 上官玖梦
 email: shangguan@jumern.com
-description: >- # this means to ignore newlines until "baseurl:"
-  上官玖梦
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+since: 2023  # 建站起始年份
+owner: 上官玖梦 # 版权所有者
+copyright_text: "未经授权严禁转载与使用" # 版权信息
+description: >- # 这表示忽略换行符，直到"baseurl:"
+  这里是上官玖梦的个人网站。
+  包含个人CosPlay作品展示、摄影摄像作品展示等内容。
+# baseurl: "" # 您网站的子路径，例如：/blog
+# url: "" # 您网站的基础主机名和协议，例如：http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-# Build settings
+# 构建设置
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-spaceship
 
-# navigation bar items
+# 导航栏项目
 header_pages:
   - index.markdown
   - about.markdown
-  - introduction.markdown
   - timetable.markdown
   - gallery.markdown
   - tarot.markdown
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
+# 排除处理
+# 默认情况下，以下项目将不会被处理。
+# 在此处 `exclude:` 下列出的任何项目都将自动添加到
+# 内部的"默认列表"中。
 #
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
+# 可以通过在 `include:` 列表中明确列出目录或
+# 其条目的文件路径来处理被排除的项目。
 #
 # exclude:
 #   - .sass-cache/
@@ -63,7 +66,7 @@ header_pages:
 #   - vendor/ruby/
 
 jekyll-spaceship:
-  # default enabled processors
+  # 默认启用的处理器
   processors:
     - table-processor
     - mathjax-processor
@@ -87,12 +90,12 @@ jekyll-spaceship:
           - ['\[','\]']
       svg:
         fontCache: 'global'
-    optimize: # optimization on building stage to check and add mathjax scripts
-      enabled: true # value `false` for adding to all pages
-      include: []   # include patterns for math expressions checking (regexp)
-      exclude: []   # exclude patterns for math expressions checking (regexp)
+    optimize: # 在构建阶段优化以检查和添加 mathjax 脚本
+      enabled: true # 值为 `false` 时添加到所有页面
+      include: []   # 数学表达式检查的包含模式 (正则表达式)
+      exclude: []   # 数学表达式检查的排除模式 (正则表达式)
   plantuml-processor:
-    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    mode: default  # 模式值为 'pre-fetch' 时在构建阶段获取图像
     css:
       class: plantuml
     syntax:
@@ -100,7 +103,7 @@ jekyll-spaceship:
       custom: ['@startuml', '@enduml']
     src: http://www.plantuml.com/plantuml/svg/
   mermaid-processor:
-    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    mode: default  # 模式值为 'pre-fetch' 时在构建阶段获取图像
     css:
       class: mermaid
     syntax:

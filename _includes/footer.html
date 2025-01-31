@@ -1,0 +1,23 @@
+<!-- 网站底部信息 -->
+<footer class="site-footer h-card">
+    <!-- 网站根路径 -->
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  
+    <!-- 包裹底部内容的容器 -->
+    <div class="wrapper">
+        <!-- 底部列的容器 -->
+        <div class="footer-col-wrapper">
+            <!-- 版权和联系信息 -->
+            <div class="footer-col">
+                <ul class="contact-list">
+                <!-- 显示版权声明 -->
+                    <li class="p-copyright">© {{ site.since }}-{{ "now" | date: "%Y" }} | {{ site.owner }} | {{ site.copyright_text }}</li>
+                <!-- 显示作者邮箱 -->
+                    <li>
+                        email: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
