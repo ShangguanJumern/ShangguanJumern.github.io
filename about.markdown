@@ -52,7 +52,7 @@ permalink: /about/
     - [陆光](https://mzh.moegirl.org.cn/%E9%99%86%E5%85%89)
     - [程小时](https://mzh.moegirl.org.cn/%E7%A8%8B%E5%B0%8F%E6%97%B6)
     - [乔苓](https://mzh.moegirl.org.cn/%E4%B9%94%E8%8B%93)
-    - （几乎主要人物全员推）
+    - （几乎是主要人物全员推）
 - [《刺客伍六七》](https://mzh.moegirl.org.cn/%E4%BC%8D%E5%85%AD%E4%B8%83)
     - [伍六七](https://mzh.moegirl.org.cn/%E4%BC%8D%E5%85%AD%E4%B8%83(%E8%A7%92%E8%89%B2)#)
     - [梅花十三](https://mzh.moegirl.org.cn/%E6%A2%85%E8%8A%B1%E5%8D%81%E4%B8%89)
