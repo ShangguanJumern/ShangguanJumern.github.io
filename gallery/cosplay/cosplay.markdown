@@ -16,7 +16,7 @@ permalink: /gallery/cosplay/
 
 ⚠️本站内容禁止用于人工智能训练⚠️
 
-# COS照目录
+# 照片目录
 
 <div class="directory-container">
     <div class="directory-card portrait">
