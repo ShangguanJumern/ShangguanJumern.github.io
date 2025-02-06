@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 黄昏
-permalink: /gallery/twilight/
+permalink: /gallery/cosplay/twilight/
 ---
 
 <haed>

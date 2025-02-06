@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 五条悟
-permalink: /gallery/gojo_satoru/
+permalink: /gallery/cosplay/gojo_satoru/
 ---
 
 <haed>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 太宰治
-permalink: /gallery/dazai_osamu/
+permalink: /gallery/cosplay/dazai_osamu/
 ---
 
 <haed>

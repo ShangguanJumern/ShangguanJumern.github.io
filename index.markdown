@@ -40,7 +40,7 @@ title: 首页
 # 本站目录
 
 ## 1. [关于上官玖梦](/about/)
-## 2. [COS照图库目录](/gallery/)
+## 2. [图库目录](/gallery/)
 ## 3. [Cosplay计划表](/timetable/)
 ## 4. [塔罗牌占卜](/tarot/)
 

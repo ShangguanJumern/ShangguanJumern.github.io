@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 平和岛静雄
-permalink: /gallery/heiwajima_shizuo/
+permalink: /gallery/cosplay/heiwajima_shizuo/
 ---
 
 <haed>

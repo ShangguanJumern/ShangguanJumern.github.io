@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 钟离
-permalink: /gallery/zhongli/
+permalink: /gallery/cosplay/zhongli/
 ---
 
 <haed>

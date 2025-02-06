@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 图库
-permalink: /gallery/
+title: CosPlay
+permalink: /gallery/cosplay/
 ---
 
 <haed>
     <link rel="stylesheet" href="/css/gallery.css">
 </haed>
 
-[**返回首页**](/)
+[**返回上页**](/gallery/)
 
 ---
 
@@ -143,6 +143,6 @@ permalink: /gallery/
 
 ---
 
-[**返回首页**](/)
+[**返回上页**](/gallery/)
 
 ~~不知不觉中就攒了这么多图片 (￣▽￣)~*~~

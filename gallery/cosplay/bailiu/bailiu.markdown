@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 白六/柳
-permalink: /gallery/bailiu/
+permalink: /gallery/cosplay/bailiu/
 ---
 
 <haed>

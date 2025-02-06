@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 凪诚士郎
-permalink: /gallery/nagi_seishiro/
+permalink: /gallery/cosplay/nagi_seishiro/
 ---
 
 <haed>

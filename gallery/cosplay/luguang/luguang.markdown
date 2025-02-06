@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 陆光
-permalink: /gallery/luguang/
+permalink: /gallery/cosplay/luguang/
 ---
 
 <haed>
