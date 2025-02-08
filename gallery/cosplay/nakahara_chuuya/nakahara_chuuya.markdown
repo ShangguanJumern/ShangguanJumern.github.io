@@ -15,26 +15,12 @@ permalink: /gallery/cosplay/nakahara_chuuya/
 
 ---
 
-<div class="gallery-container portrait">
+<div class="gallery-container landscape">
     <div class="gallery-item landscape">
         <picture>
             <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-001.avif" type="image/avif">
             <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-001.webp" type="image/webp">
             <img src="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-001.jpg" alt="nakahara_chuuya-001.jpg" loading="lazy">
-        </picture>
-    </div>
-    <div class="gallery-item portrait">
-        <picture>
-            <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-002.avif" type="image/avif">
-            <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-002.webp" type="image/webp">
-            <img src="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-002.jpg" alt="nakahara_chuuya-002.jpg" loading="lazy">
-        </picture>
-    </div>
-    <div class="gallery-item portrait">
-        <picture>
-            <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-003.avif" type="image/avif">
-            <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-003.webp" type="image/webp">
-            <img src="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-003.jpg" alt="nakahara_chuuya-003.jpg" loading="lazy">
         </picture>
     </div>
     <div class="gallery-item landscape">
@@ -49,6 +35,23 @@ permalink: /gallery/cosplay/nakahara_chuuya/
             <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-005.avif" type="image/avif">
             <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-005.webp" type="image/webp">
             <img src="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-005.jpg" alt="nakahara_chuuya-005.jpg" loading="lazy">
+        </picture>
+    </div>
+</div>
+
+<div class="gallery-container portrait">
+    <div class="gallery-item portrait">
+        <picture>
+            <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-002.avif" type="image/avif">
+            <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-002.webp" type="image/webp">
+            <img src="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-002.jpg" alt="nakahara_chuuya-002.jpg" loading="lazy">
+        </picture>
+    </div>
+    <div class="gallery-item portrait">
+        <picture>
+            <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-003.avif" type="image/avif">
+            <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-003.webp" type="image/webp">
+            <img src="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-003.jpg" alt="nakahara_chuuya-003.jpg" loading="lazy">
         </picture>
     </div>
     <div class="gallery-item portrait">
