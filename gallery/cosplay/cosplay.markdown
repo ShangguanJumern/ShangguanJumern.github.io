@@ -35,6 +35,21 @@ permalink: /gallery/cosplay/
         </a>
     </div>
     <div class="directory-card portrait">
+        <a href="./nakahara_chuuya">
+            <div class="directory-text">
+                <h2>中原中也</h2>
+                <p>《文豪野犬》</p>
+            </div>
+            <div class="directory-item portrait">
+                <picture>
+                    <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-004.avif" type="image/avif">
+                    <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-004.webp" type="image/webp">
+                    <img src="https://image.jumern.com/cosplay/nakahara_chuuya/beast/nakahara_chuuya-004.jpg" alt="nakahara_chuuya-004.jpg" loading="lazy">
+                </picture>
+            </div>
+        </a>
+    </div>
+    <div class="directory-card portrait">
         <a href="./zhongli">
             <div class="directory-text">
                 <h2>钟离</h2>
