@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 武装侦探社
-permalink: /gallery/dazai_osamu/detective/
+permalink: /gallery/cosplay/dazai_osamu/detective/
 ---
 
 <haed>

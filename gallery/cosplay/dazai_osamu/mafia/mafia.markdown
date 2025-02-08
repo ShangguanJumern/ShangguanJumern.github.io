@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 黑之时代
-permalink: /gallery/dazai_osamu/mafia/
+permalink: /gallery/cosplay/dazai_osamu/mafia/
 ---
 
 <haed>

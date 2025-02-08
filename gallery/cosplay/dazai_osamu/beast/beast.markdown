@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BEAST首领
-permalink: /gallery/dazai_osamu/beast/
+permalink: /gallery/cosplay/dazai_osamu/beast/
 ---
 
 <haed>
