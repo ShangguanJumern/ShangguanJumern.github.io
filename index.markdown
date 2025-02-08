@@ -41,8 +41,9 @@ title: 首页
 
 ## 1. [关于上官玖梦](/about/)
 ## 2. [图库目录](/gallery/)
-## 3. [Cosplay计划表](/timetable/)
-## 4. [塔罗牌占卜](/tarot/)
+## 3. [摄影/后期价格表](/photography/)
+## 4. [Cosplay计划表](/timetable/)
+## 5. [塔罗牌占卜](/tarot/)
 
 *上官玖梦老师仍在持续施工本站……*
 
@@ -56,8 +57,8 @@ title: 首页
 
 ## 二三次分号
 
-- **WeChat：** Jumernn
-- **QQ：** 2099212720
+- 🛰 微信：{{ site.wechat }}
+- 🐧 QQ：{{ site.qq }}
 
 <div class="gallery-container landscape">
     <div class="gallery-item square">

@@ -19,7 +19,8 @@ permalink: /gallery/
 # 图库目录
 
 1. [CosPlay图库](/gallery/cosplay)
-2. [摄影/后期例图](/gallery/photography/)
+2. [摄影例图](/gallery/photography/)
+3. [后期例图](/gallery/post-production)
 
 ---
 

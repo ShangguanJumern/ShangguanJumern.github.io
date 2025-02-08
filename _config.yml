@@ -20,6 +20,8 @@
 
 title: 上官玖梦
 email: shangguan@jumern.com
+wechat: jumernn
+qq: 2099212720
 since: 2023  # 建站起始年份
 owner: 上官玖梦 # 版权所有者
 copyright_text: "未经授权严禁转载与使用" # 版权信息
@@ -39,10 +41,10 @@ plugins:
 
 # 导航栏项目
 header_pages:
-  - index.markdown
   - about.markdown
-  - timetable.markdown
+  - photography.markdown
   - gallery.markdown
+  - timetable.markdown
   - tarot.markdown
 
 # 排除处理
