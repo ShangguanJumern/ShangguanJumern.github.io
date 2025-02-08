@@ -27,9 +27,9 @@ permalink: /gallery/cosplay/
             </div>
             <div class="directory-item portrait">
                 <picture>
-                    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-mafia-showcase.avif" type="image/avif">
-                    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-mafia-showcase.webp" type="image/webp">
-                    <img src="https://image.jumern.com/cosplay/dazai_osamu/mafia/dazai_osamu-mafia-showcase.jpg" alt="dazai_osamu-mafia-showcase.jpg" loading="lazy">
+                    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/detective/dazai_osamu-015.avif" type="image/avif">
+                    <source srcset="https://image.jumern.com/cosplay/dazai_osamu/detective/dazai_osamu-015.webp" type="image/webp">
+                    <img src="https://image.jumern.com/cosplay/dazai_osamu/detective/dazai_osamu-015.jpg" alt="dazai_osamu-015.jpg" loading="lazy">
                 </picture>
             </div>
         </a>
