@@ -65,3 +65,19 @@ permalink: /gallery/post-production/
 </div>
 
 更多该角色例图请见[`中原中也beast线图库`](/gallery/cosplay/nakahara_chuuya/)。
+
+## 太宰治&中原中也
+
+### beast线
+
+<div class="gallery-container landscape">
+    <div class="gallery-item landscape">
+        <picture>
+            <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/special/beast-dazai&chuuya-val-sp.avif" type="image/avif">
+            <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/special/beast-dazai&chuuya-val-sp.webp" type="image/webp">
+            <img src="https://image.jumern.com/cosplay/nakahara_chuuya/beast/special/beast-dazai&chuuya-val-sp.jpg" alt="beast-dazai&chuuya-val-sp.jpg" loading="lazy">
+        </picture>
+    </div>
+</div>
+
+该例图详情请见[`太宰&中也`](/gallery/cosplay/nakahara_chuuya/special/)此页面。
