@@ -16,7 +16,7 @@ permalink: /gallery/cosplay/
 
 ⚠️本站内容禁止用于人工智能训练⚠️
 
-# 照片目录
+# 单角色照目录
 
 <div class="directory-container">
     <div class="directory-card portrait">
@@ -150,6 +150,30 @@ permalink: /gallery/cosplay/
                     <source srcset="https://image.jumern.com/cosplay/heiwajima_shizuo/classic/heiwajima_shizuo-001.avif" type="image/avif">
                     <source srcset="https://image.jumern.com/cosplay/heiwajima_shizuo/classic/heiwajima_shizuo-001.webp" type="image/webp">
                     <img src="https://image.jumern.com/cosplay/heiwajima_shizuo/classic/heiwajima_shizuo-001.jpg" alt="heiwajima_shizuo-001.jpg" loading="lazy">
+                </picture>
+            </div>
+        </a>
+    </div>
+</div>
+
+---
+
+[**返回上页**](/gallery/)
+
+# 多角色照目录
+
+<div class="directory-container">
+    <div class="directory-card portrait">
+        <a href="./nakahara_chuuya/special">
+            <div class="directory-text">
+                <h2>太宰&中也</h2>
+                <p>《文豪野犬》</p>
+            </div>
+            <div class="directory-item portrait">
+                <picture>
+                    <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/special/beast-dazai&chuuya-val-sp.avif" type="image/avif">
+                    <source srcset="https://image.jumern.com/cosplay/nakahara_chuuya/beast/special/beast-dazai&chuuya-val-sp.webp" type="image/webp">
+                    <img src="https://image.jumern.com/cosplay/nakahara_chuuya/beast/special/beast-dazai&chuuya-val-sp.jpg" alt="beast-dazai&chuuya-val-sp.jpg" loading="lazy">
                 </picture>
             </div>
         </a>
