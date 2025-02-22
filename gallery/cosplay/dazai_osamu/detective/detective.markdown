@@ -17,6 +17,10 @@ permalink: /gallery/cosplay/dazai_osamu/detective/
 
 ---
 
+### 【自杀者为何要活在闪光灯下？快门声是另一种形态的断崖】
+
+> 「医用绷带在强光下溶解成液态月光，缠绕着二十一克灵魂的密度。文件在身后纷飞如白鸟。风衣的重量刚好等于三场未完成的死亡。不过别担心，殉情邀约依然有效哦——♪」
+
 <div class="gallery-container landscape">
     <div class="gallery-item landscape">
         <picture>
