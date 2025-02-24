@@ -37,18 +37,10 @@ description: >- # 这表示忽略换行符，直到"baseurl:"
 # github_username:  jekyll
 
 # 构建设置
-theme: minima
+theme: dark-minima
 plugins:
   - jekyll-feed
   - jekyll-spaceship
-
-# 导航栏项目
-header_pages:
-  - about.markdown
-  - photography.markdown
-  - gallery.markdown
-  - timetable.markdown
-  - tarot.markdown
 
 # 排除处理
 # 默认情况下，以下项目将不会被处理。

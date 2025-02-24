@@ -2,6 +2,7 @@
 layout: page
 title: 摄影
 permalink: /photography/
+show_in_nav: true
 ---
 
 <haed>

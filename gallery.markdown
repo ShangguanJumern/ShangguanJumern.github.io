@@ -2,6 +2,7 @@
 layout: page
 title: 图库
 permalink: /gallery/
+show_in_nav: true
 ---
 
 <haed>

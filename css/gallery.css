@@ -25,9 +25,9 @@
     place-items: left;
     grid-auto-rows: minmax(60px, auto);
     grid-template-columns: 1fr;
-    border: 2px solid #add8e6;
+    border: 2px solid black;
     border-radius: 8px;
-    background-color: #f0f8ff;
+    background-color: gray;
 }
 
 /* 目录横向图片占两列 */

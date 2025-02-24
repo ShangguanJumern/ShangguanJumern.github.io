@@ -2,6 +2,7 @@
 layout: page
 title: 计划表
 permalink: /timetable/
+show_in_nav: true
 ---
 
 # Cosplay计划表

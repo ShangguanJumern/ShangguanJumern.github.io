@@ -22,7 +22,7 @@ permalink: /gallery/cosplay/
     <div class="directory-card portrait">
         <a href="./dazai_osamu">
             <div class="directory-text">
-                <h2>太宰治</h2>
+                <h3>太宰治</h3>
                 <p>《文豪野犬》</p>
             </div>
             <div class="directory-item portrait">
@@ -37,7 +37,7 @@ permalink: /gallery/cosplay/
     <div class="directory-card portrait">
         <a href="./nakahara_chuuya">
             <div class="directory-text">
-                <h2>中原中也</h2>
+                <h3>中原中也</h3>
                 <p>《文豪野犬》</p>
             </div>
             <div class="directory-item portrait">
@@ -52,7 +52,7 @@ permalink: /gallery/cosplay/
     <div class="directory-card portrait">
         <a href="./zhongli">
             <div class="directory-text">
-                <h2>钟离</h2>
+                <h3>钟离</h3>
                 <p>《原神》</p>
             </div>
             <div class="directory-item portrait">
@@ -67,7 +67,7 @@ permalink: /gallery/cosplay/
     <div class="directory-card landscape">
         <a href="./luguang">
             <div class="directory-text">
-                <h2>陆光</h2>
+                <h3>陆光</h3>
                 <p>《时光代理人》</p>
             </div>
             <div class="directory-item landscape">
@@ -82,7 +82,7 @@ permalink: /gallery/cosplay/
     <div class="directory-card landscape">
         <a href="./bailiu/">
             <div class="directory-text">
-                <h2>白柳/六</h2>
+                <h3>白柳/六</h3>
                 <p>《惊封》</p>
             </div>
             <div class="directory-item landscape">
@@ -97,7 +97,7 @@ permalink: /gallery/cosplay/
     <div class="directory-card portrait">
         <a href="./nagi_seishiro">
             <div class="directory-text">
-                <h2>凪诚士郎</h2>
+                <h3>凪诚士郎</h3>
                 <p>《蓝色监狱》</p>
             </div>
             <div class="directory-item portrait">
@@ -112,7 +112,7 @@ permalink: /gallery/cosplay/
     <div class="directory-card portrait">
         <a href="./gojo_satoru">
             <div class="directory-text">
-                <h2>五条悟</h2>
+                <h3>五条悟</h3>
                 <p>《咒术回战》</p>
             </div>
             <div class="directory-item portrait">
@@ -127,7 +127,7 @@ permalink: /gallery/cosplay/
     <div class="directory-card portrait">
         <a href="./twilight">
             <div class="directory-text">
-                <h2>黄昏</h2>
+                <h3>黄昏</h3>
                 <p>《间谍过家家》</p>
             </div>
             <div class="directory-item portrait">
@@ -142,7 +142,7 @@ permalink: /gallery/cosplay/
     <div class="directory-card portrait">
         <a href="./heiwajima_shizuo">
             <div class="directory-text">
-                <h2>平和岛静雄</h2>
+                <h3>平和岛静雄</h3>
                 <p>《无头骑士异闻录》</p>
             </div>
             <div class="directory-item portrait">
@@ -166,7 +166,7 @@ permalink: /gallery/cosplay/
     <div class="directory-card portrait">
         <a href="./nakahara_chuuya/special">
             <div class="directory-text">
-                <h2>太宰&中也</h2>
+                <h3>太宰&中也</h3>
                 <p>《文豪野犬》</p>
             </div>
             <div class="directory-item portrait">

@@ -2,6 +2,7 @@
 layout: page
 title: 关于
 permalink: /about/
+show_in_nav: true
 ---
 
 # 本页目录 {#top}
